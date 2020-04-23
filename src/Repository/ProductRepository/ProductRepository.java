@@ -17,15 +17,19 @@ public class ProductRepository {
         this.productList.add(P);
     }
 
+    public void add(Vector<Products> P) {
+        this.productList.addAll(P);
+    }
+
     public void removeProductById(int id)
     {
-        for (Products product : productList){
-            if ( product.getProductID() == id)
-            {
-                System.out.println("Removed: "+product.toString());
-                productList.remove(product);
+        for(Products p : productList)
+        {
+            if(p.getProductID() == id){
+                System.out.println("Removed: " + p.toString());
             }
         }
+        productList.removeIf(p -> p.getProductID() == id);
     }
 
     public Products findProductById(int id) {

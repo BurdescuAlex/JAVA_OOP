@@ -4,7 +4,7 @@ public class Electronics extends Products {
     private int warrantyTime;
     private double deliveryPrice;
 
-    public Electronics(String productName, double productPrice, int warrantyTime, int deliveryPrice) {
+    public Electronics(String productName, double productPrice, int warrantyTime, double deliveryPrice) {
         super(productName, productPrice);
         this.warrantyTime = warrantyTime;
         this.deliveryPrice = deliveryPrice;

@@ -22,3 +22,21 @@
 * ProductService - Contine metodele: addProduct(), seeProducts(), removeProduct(), findProduct(), getProducts()
 * EmployeeService - Contine metodele: addEmployee(), fireEmployee(), seeEmployees(), seeFiredEmployees(), findEmployee(), getEmployees()
 * PaymentsService - Contine metodele: addPayment(), seePayments(), removePayment(), findPayment(), getPayments()
+
+# Etapa2
+
+## Servicii implmentate:
+
+* ProductServiceIO - Citeste si scrie datele in fisierele Food.csv , Electronics.csv, Furniture.csv
+* EmployeeServiceIO - Citeste si scrie datele in fisierele Cashier.csv, CashRegisterSpecialist.csv., FiredEmployees.csv
+* PaymentsServiceIO - Citeste si scrie datele in fisierele Cash.csv, Card.csv
+* AuditService - Scrie loguri pentru sesiunea de lucru in Log.txt
+
+## Buguri si Probleme rezolvate:
+
+* Rezolvare probleme de eliminare a obiectelor din repository-urilor in care acestea nu se eliminau cum trebuie
+* Rezolvare problema la payments in care se copia o referinta a ShoppingCart-ului, nu a elementelor din el
+
+## Functii noi adaugate
+
+* Adaugare functii de addProduct(s), addPayment(s), addEmployee(s), addFiredEmpployee(s) care accepta ca parametru un vector

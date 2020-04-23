@@ -9,7 +9,7 @@ public class ShoppingCart {
     private Vector<Products> cart = new Vector<Products>();
 
     public ShoppingCart(Vector<Products> cart) {
-        this.cart = cart;
+        this.cart.addAll(cart);
     }
     public ShoppingCart()
     {
@@ -17,11 +17,12 @@ public class ShoppingCart {
     }
 
     public Vector<Products> getCart() {
-        return cart;
+        return this.cart;
     }
 
     public void setCart(Vector<Products> cart) {
-        this.cart = cart;
+        this.cart.clear();
+        this.cart.addAll(cart);
     }
 
     public void buy(Products P)

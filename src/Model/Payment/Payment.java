@@ -13,9 +13,9 @@ public abstract class Payment {
     private ShoppingCart cart;
 
     public Payment(ShoppingCart cart) throws ParseException {
-        this.id = idCounter;
-        this.cart= cart;
         idCounter++;
+        this.id = idCounter;
+        this.cart = new ShoppingCart(cart.getCart());
         SimpleDateFormat formatter= new SimpleDateFormat("yyyy-MM-dd 'at' HH:mm:ss z");
         this.date =  formatter.parse(formatter.format(new Date() ));;
     }

@@ -1,0 +1,36 @@
+
+
+
+		NEW SESSION	Thu Apr 23 10:02:36 EEST 2020
+ENTER ProductServiceIO ReadData	Thu Apr 23 10:02:36 EEST 2020
+EXIT ProductServiceIO ReadData	Thu Apr 23 10:02:36 EEST 2020
+addProduct	Thu Apr 23 10:02:36 EEST 2020
+ENTER EmployeeServiceIO ReadData	Thu Apr 23 10:02:36 EEST 2020
+ENTER EmployeeServiceIO ReadData	Thu Apr 23 10:02:36 EEST 2020
+addEmployees	Thu Apr 23 10:02:36 EEST 2020
+ENTER EmployeeServiceIO ReadFired	Thu Apr 23 10:02:36 EEST 2020
+EXIT EmployeeServiceIO ReadFired	Thu Apr 23 10:02:36 EEST 2020
+addFiredEmployees	Thu Apr 23 10:02:36 EEST 2020
+ENTER PaymentServiceIO ReadData	Thu Apr 23 10:02:36 EEST 2020
+findProduct	Thu Apr 23 10:02:36 EEST 2020
+findProduct	Thu Apr 23 10:02:36 EEST 2020
+findProduct	Thu Apr 23 10:02:36 EEST 2020
+findProduct	Thu Apr 23 10:02:36 EEST 2020
+EXIT PaymentServiceIO ReadData	Thu Apr 23 10:02:36 EEST 2020
+addPayments	Thu Apr 23 10:02:36 EEST 2020
+addProduct	Thu Apr 23 10:02:36 EEST 2020
+removeProduct	Thu Apr 23 10:02:36 EEST 2020
+seeProducts	Thu Apr 23 10:02:36 EEST 2020
+seeEmployees	Thu Apr 23 10:02:36 EEST 2020
+seeFiredEmployees	Thu Apr 23 10:02:36 EEST 2020
+seePayments	Thu Apr 23 10:02:36 EEST 2020
+getProducts	Thu Apr 23 10:02:36 EEST 2020
+ENTER ProductServiceIO WriteData	Thu Apr 23 10:02:36 EEST 2020
+EXIT ProductServiceIO WriteData	Thu Apr 23 10:02:36 EEST 2020
+getEmployees	Thu Apr 23 10:02:36 EEST 2020
+getFiredEmployees	Thu Apr 23 10:02:36 EEST 2020
+ENTER EmployeeServiceIO WriteData	Thu Apr 23 10:02:36 EEST 2020
+EXIT EmployeeServiceIO WriteData	Thu Apr 23 10:02:36 EEST 2020
+getPayments	Thu Apr 23 10:02:36 EEST 2020
+ENTER PaymentServiceIO WriteData	Thu Apr 23 10:02:36 EEST 2020
+EXIT PaymentServiceIO WriteData	Thu Apr 23 10:02:36 EEST 2020

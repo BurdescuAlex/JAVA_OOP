@@ -18,6 +18,7 @@ public class PaymentRepository {
     {
         paymentRepository.add(P);
     }
+    public void addPayment(Vector<Payment> P) { paymentRepository.addAll(P);}
 
     public Payment findPaymentById(int id)
     {
@@ -33,13 +34,13 @@ public class PaymentRepository {
 
     public void removePaymentById(int id)
     {
-        for( Payment pay: paymentRepository)
+        for(Payment p : paymentRepository)
         {
-            if(pay.getId() == id)
-            {
-                paymentRepository.remove(pay);
+            if(p.getId() == id){
+                System.out.println("Removed: " + p.toString());
             }
         }
+        paymentRepository.removeIf(p -> p.getId() == id);
     }
 
     public Vector<Payment> getPaymentRepository()

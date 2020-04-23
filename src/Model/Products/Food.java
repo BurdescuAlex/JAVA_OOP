@@ -13,11 +13,11 @@ public class Food extends Products {
         setIsExpired(expireDate);
     }
 
-    public Date getExpireDare() {
+    public Date getExpireDate() {
         return expireDate;
     }
 
-    public void setExpireDare(Date expireDate) {
+    public void setExpireDate(Date expireDate) {
         this.expireDate = expireDate;
     }
 

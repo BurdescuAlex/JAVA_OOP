@@ -19,6 +19,13 @@ public class EmployeesRepository {
         this.employeeList.add(E);
     }
 
+    public void add(Vector<Employees> E) {
+        this.employeeList.addAll(E);
+    }
+
+    public void addFired(Vector<Employees> E) {
+        this.firedList.addAll(E);
+    }
     public void fireEmployeeById(int id, String reason)
     {
         for (Employees employee : employeeList){
@@ -26,9 +33,9 @@ public class EmployeesRepository {
             {
                 System.out.println("Fired: " + employee.toString() + " " + reason) ;
                 firedList.add(employee);
-                employeeList.remove(employee);
             }
         }
+        employeeList.removeIf(p -> p.getEmployeeID() == id);
     }
 
     public Employees findEmployeeById(int id) {
