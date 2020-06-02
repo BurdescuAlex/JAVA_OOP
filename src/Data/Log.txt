@@ -34,3 +34,39 @@ EXIT EmployeeServiceIO WriteData	Thu Apr 23 10:02:36 EEST 2020
 getPayments	Thu Apr 23 10:02:36 EEST 2020
 ENTER PaymentServiceIO WriteData	Thu Apr 23 10:02:36 EEST 2020
 EXIT PaymentServiceIO WriteData	Thu Apr 23 10:02:36 EEST 2020
+
+
+
+		NEW SESSION	Tue Jun 02 19:36:28 EEST 2020
+ENTER ProductServiceIO ReadData	Tue Jun 02 19:36:28 EEST 2020
+EXIT ProductServiceIO ReadData	Tue Jun 02 19:36:28 EEST 2020
+addProduct	Tue Jun 02 19:36:28 EEST 2020
+ENTER EmployeeServiceIO ReadData	Tue Jun 02 19:36:28 EEST 2020
+ENTER EmployeeServiceIO ReadData	Tue Jun 02 19:36:28 EEST 2020
+addEmployees	Tue Jun 02 19:36:28 EEST 2020
+ENTER EmployeeServiceIO ReadFired	Tue Jun 02 19:36:28 EEST 2020
+EXIT EmployeeServiceIO ReadFired	Tue Jun 02 19:36:28 EEST 2020
+addFiredEmployees	Tue Jun 02 19:36:28 EEST 2020
+ENTER PaymentServiceIO ReadData	Tue Jun 02 19:36:28 EEST 2020
+findProduct	Tue Jun 02 19:36:28 EEST 2020
+findProduct	Tue Jun 02 19:36:28 EEST 2020
+findProduct	Tue Jun 02 19:36:28 EEST 2020
+findProduct	Tue Jun 02 19:36:28 EEST 2020
+EXIT PaymentServiceIO ReadData	Tue Jun 02 19:36:28 EEST 2020
+addPayments	Tue Jun 02 19:36:28 EEST 2020
+addProduct	Tue Jun 02 19:36:28 EEST 2020
+removeProduct	Tue Jun 02 19:36:28 EEST 2020
+seeProducts	Tue Jun 02 19:36:28 EEST 2020
+seeEmployees	Tue Jun 02 19:36:28 EEST 2020
+seeFiredEmployees	Tue Jun 02 19:36:28 EEST 2020
+seePayments	Tue Jun 02 19:36:28 EEST 2020
+getProducts	Tue Jun 02 19:36:28 EEST 2020
+ENTER ProductServiceIO WriteData	Tue Jun 02 19:36:28 EEST 2020
+EXIT ProductServiceIO WriteData	Tue Jun 02 19:36:28 EEST 2020
+getEmployees	Tue Jun 02 19:36:28 EEST 2020
+getFiredEmployees	Tue Jun 02 19:36:28 EEST 2020
+ENTER EmployeeServiceIO WriteData	Tue Jun 02 19:36:28 EEST 2020
+EXIT EmployeeServiceIO WriteData	Tue Jun 02 19:36:28 EEST 2020
+getPayments	Tue Jun 02 19:36:28 EEST 2020
+ENTER PaymentServiceIO WriteData	Tue Jun 02 19:36:28 EEST 2020
+EXIT PaymentServiceIO WriteData	Tue Jun 02 19:36:28 EEST 2020
