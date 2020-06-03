@@ -3,6 +3,7 @@ import unibuc.fulger.Model.Products.Products;
 import unibuc.fulger.Repository.ProductRepository.ProductRepository;
 import unibuc.fulger.Services.AuditService;
 
+import java.sql.SQLException;
 import java.util.Vector;
 
 public class ProductService {
@@ -28,6 +29,12 @@ public class ProductService {
         productRepository.add(P);
     }
 
+    public void addToMemory(Vector<Products> P)
+    {
+        auditService.writeLog("addToMemory");
+        productRepository.memory(P);
+    }
+
     public Products findProduct(int id) {
         auditService.writeLog("findProduct");
         return productRepository.findProductById(id);
@@ -38,10 +45,14 @@ public class ProductService {
         return productRepository.getProducts();
     }
 
-    public void removeProduct(int id)
-    {
+    public void removeProduct(int id) throws SQLException {
         auditService.writeLog("removeProduct");
         productRepository.removeProductById(id);
+    }
+
+    public void changeProductNameById( int id, String name) throws SQLException {
+        auditService.writeLog("chaneProductNameById");
+        productRepository.changeProductNameById(id, name);
     }
 
     public String seeProducts() {

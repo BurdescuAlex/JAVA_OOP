@@ -1,12 +1,15 @@
 package unibuc.fulger.Repository.EmployeesRepository;
 import unibuc.fulger.Model.Employees.Employees;
+import unibuc.fulger.Services.EmployeesService.EmployeeServiceIO;
 
+import java.sql.SQLException;
 import java.util.Vector;
 
 public class EmployeesRepository {
 
     private Vector<Employees> employeeList = new Vector<Employees>();
     private Vector<Employees> firedList = new Vector<Employees>();
+    private EmployeeServiceIO employeeServiceIO = EmployeeServiceIO.getInstance();
 
     public EmployeesRepository(){
 
@@ -46,6 +49,16 @@ public class EmployeesRepository {
             }
         }
         return null;
+    }
+    public void deleteRecord(int id ) throws SQLException {
+        employeeServiceIO.deleteRecord(id);
+    }
+    public void updateSalary(int id, int salary) throws SQLException {
+        employeeServiceIO.changeSalary(id, salary);
+    }
+    public void insertEmployee(Employees e)
+    {
+        employeeServiceIO.insertEmployee(e);
     }
 
     public Vector<Employees> getEmployeeList()

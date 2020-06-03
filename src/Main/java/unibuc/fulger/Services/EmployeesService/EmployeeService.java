@@ -3,6 +3,7 @@ import unibuc.fulger.Model.Employees.Employees;
 import unibuc.fulger.Repository.EmployeesRepository.EmployeesRepository;
 import unibuc.fulger.Services.AuditService;
 
+import java.sql.SQLException;
 import java.util.Vector;
 
 public class EmployeeService {
@@ -70,5 +71,18 @@ public class EmployeeService {
             Output = Output + employee.toString() + "\n";
         }
         return Output;
+    }
+    public void deleteEmployeeById(int id) throws SQLException {
+        auditService.writeLog("deleteEmployeeById");
+        employeesRepository.deleteRecord(id);
+    }
+    public void updateSalaryById(int id, int salary) throws SQLException {
+        auditService.writeLog("updateSalaryById");
+        employeesRepository.updateSalary(id, salary);
+    }
+    public void insertEmployeeToDB(Employees e)
+    {
+        auditService.writeLog("insertEmployeeToDB");
+        employeesRepository.insertEmployee(e);
     }
 }

@@ -40,3 +40,19 @@
 ## Functii noi adaugate
 
 * Adaugare functii de addProduct(s), addPayment(s), addEmployee(s), addFiredEmpployee(s) care accepta ca parametru un vector
+
+
+# Etapa3
+
+## Moodificari sercivii
+
+* ProductServiceIO Modificat pentru a functiona cu baza de date
+* EmployeeServiceIO Modificat pentru a functiona cu baza de date
+
+## Implementare interfata
+
+* Interfata implmentate pentru a putea realiza operatiuni CRUD pentru produse in cadrul bazei de date
+
+## Functii noi adaugate
+
+* Functii noi adaugate pentru a realiza actiunile CRUD in cadrul bazei de date, modificate la nivel de EmployeeService/ProductService si in cadrul repository-urilor respective

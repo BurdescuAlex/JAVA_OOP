@@ -70,3 +70,2449 @@ EXIT EmployeeServiceIO WriteData	Tue Jun 02 19:36:28 EEST 2020
 getPayments	Tue Jun 02 19:36:28 EEST 2020
 ENTER PaymentServiceIO WriteData	Tue Jun 02 19:36:28 EEST 2020
 EXIT PaymentServiceIO WriteData	Tue Jun 02 19:36:28 EEST 2020
+
+
+
+		NEW SESSION	Tue Jun 02 20:57:28 EEST 2020
+ENTER ProductServiceIO ReadData	Tue Jun 02 20:57:28 EEST 2020
+EXIT ProductServiceIO ReadData	Tue Jun 02 20:57:28 EEST 2020
+addProduct	Tue Jun 02 20:57:28 EEST 2020
+ENTER EmployeeServiceIO ReadData	Tue Jun 02 20:57:28 EEST 2020
+ENTER EmployeeServiceIO ReadData	Tue Jun 02 20:57:28 EEST 2020
+addEmployees	Tue Jun 02 20:57:28 EEST 2020
+ENTER EmployeeServiceIO ReadFired	Tue Jun 02 20:57:28 EEST 2020
+EXIT EmployeeServiceIO ReadFired	Tue Jun 02 20:57:28 EEST 2020
+addFiredEmployees	Tue Jun 02 20:57:28 EEST 2020
+ENTER PaymentServiceIO ReadData	Tue Jun 02 20:57:28 EEST 2020
+findProduct	Tue Jun 02 20:57:28 EEST 2020
+findProduct	Tue Jun 02 20:57:28 EEST 2020
+findProduct	Tue Jun 02 20:57:28 EEST 2020
+findProduct	Tue Jun 02 20:57:28 EEST 2020
+EXIT PaymentServiceIO ReadData	Tue Jun 02 20:57:28 EEST 2020
+addPayments	Tue Jun 02 20:57:28 EEST 2020
+addProduct	Tue Jun 02 20:57:28 EEST 2020
+removeProduct	Tue Jun 02 20:57:28 EEST 2020
+seeProducts	Tue Jun 02 20:57:28 EEST 2020
+seeEmployees	Tue Jun 02 20:57:28 EEST 2020
+seeFiredEmployees	Tue Jun 02 20:57:28 EEST 2020
+seePayments	Tue Jun 02 20:57:28 EEST 2020
+getProducts	Tue Jun 02 20:57:28 EEST 2020
+ENTER ProductServiceIO WriteData	Tue Jun 02 20:57:28 EEST 2020
+EXIT ProductServiceIO WriteData	Tue Jun 02 20:57:28 EEST 2020
+getEmployees	Tue Jun 02 20:57:28 EEST 2020
+getFiredEmployees	Tue Jun 02 20:57:28 EEST 2020
+ENTER EmployeeServiceIO WriteData	Tue Jun 02 20:57:28 EEST 2020
+EXIT EmployeeServiceIO WriteData	Tue Jun 02 20:57:28 EEST 2020
+getPayments	Tue Jun 02 20:57:28 EEST 2020
+ENTER PaymentServiceIO WriteData	Tue Jun 02 20:57:28 EEST 2020
+EXIT PaymentServiceIO WriteData	Tue Jun 02 20:57:28 EEST 2020
+
+
+
+		NEW SESSION	Tue Jun 02 21:08:08 EEST 2020
+ENTER ProductServiceIO ReadData	Tue Jun 02 21:08:08 EEST 2020
+EXIT ProductServiceIO ReadData	Tue Jun 02 21:08:08 EEST 2020
+addProduct	Tue Jun 02 21:08:08 EEST 2020
+ENTER EmployeeServiceIO ReadData	Tue Jun 02 21:08:08 EEST 2020
+ENTER EmployeeServiceIO ReadData	Tue Jun 02 21:08:08 EEST 2020
+addEmployees	Tue Jun 02 21:08:08 EEST 2020
+ENTER EmployeeServiceIO ReadFired	Tue Jun 02 21:08:08 EEST 2020
+EXIT EmployeeServiceIO ReadFired	Tue Jun 02 21:08:08 EEST 2020
+addFiredEmployees	Tue Jun 02 21:08:08 EEST 2020
+ENTER PaymentServiceIO ReadData	Tue Jun 02 21:08:08 EEST 2020
+findProduct	Tue Jun 02 21:08:08 EEST 2020
+findProduct	Tue Jun 02 21:08:08 EEST 2020
+findProduct	Tue Jun 02 21:08:08 EEST 2020
+findProduct	Tue Jun 02 21:08:08 EEST 2020
+EXIT PaymentServiceIO ReadData	Tue Jun 02 21:08:08 EEST 2020
+addPayments	Tue Jun 02 21:08:08 EEST 2020
+addProduct	Tue Jun 02 21:08:08 EEST 2020
+removeProduct	Tue Jun 02 21:08:08 EEST 2020
+seeProducts	Tue Jun 02 21:08:08 EEST 2020
+seeEmployees	Tue Jun 02 21:08:08 EEST 2020
+seeFiredEmployees	Tue Jun 02 21:08:08 EEST 2020
+seePayments	Tue Jun 02 21:08:08 EEST 2020
+getProducts	Tue Jun 02 21:08:08 EEST 2020
+ENTER ProductServiceIO WriteData	Tue Jun 02 21:08:08 EEST 2020
+getEmployees	Tue Jun 02 21:08:09 EEST 2020
+getFiredEmployees	Tue Jun 02 21:08:09 EEST 2020
+ENTER EmployeeServiceIO WriteData	Tue Jun 02 21:08:09 EEST 2020
+EXIT EmployeeServiceIO WriteData	Tue Jun 02 21:08:09 EEST 2020
+getPayments	Tue Jun 02 21:08:09 EEST 2020
+ENTER PaymentServiceIO WriteData	Tue Jun 02 21:08:09 EEST 2020
+EXIT PaymentServiceIO WriteData	Tue Jun 02 21:08:09 EEST 2020
+
+
+
+		NEW SESSION	Tue Jun 02 21:16:02 EEST 2020
+ENTER ProductServiceIO ReadData	Tue Jun 02 21:16:02 EEST 2020
+EXIT ProductServiceIO ReadData	Tue Jun 02 21:16:02 EEST 2020
+addProduct	Tue Jun 02 21:16:02 EEST 2020
+ENTER EmployeeServiceIO ReadData	Tue Jun 02 21:16:02 EEST 2020
+ENTER EmployeeServiceIO ReadData	Tue Jun 02 21:16:02 EEST 2020
+addEmployees	Tue Jun 02 21:16:02 EEST 2020
+ENTER EmployeeServiceIO ReadFired	Tue Jun 02 21:16:02 EEST 2020
+EXIT EmployeeServiceIO ReadFired	Tue Jun 02 21:16:02 EEST 2020
+addFiredEmployees	Tue Jun 02 21:16:02 EEST 2020
+ENTER PaymentServiceIO ReadData	Tue Jun 02 21:16:02 EEST 2020
+findProduct	Tue Jun 02 21:16:02 EEST 2020
+findProduct	Tue Jun 02 21:16:02 EEST 2020
+
+
+
+		NEW SESSION	Tue Jun 02 21:21:09 EEST 2020
+ENTER ProductServiceIO ReadData	Tue Jun 02 21:21:09 EEST 2020
+EXIT ProductServiceIO ReadData	Tue Jun 02 21:21:09 EEST 2020
+addProduct	Tue Jun 02 21:21:09 EEST 2020
+ENTER EmployeeServiceIO ReadData	Tue Jun 02 21:21:09 EEST 2020
+ENTER EmployeeServiceIO ReadData	Tue Jun 02 21:21:09 EEST 2020
+addEmployees	Tue Jun 02 21:21:09 EEST 2020
+ENTER EmployeeServiceIO ReadFired	Tue Jun 02 21:21:09 EEST 2020
+EXIT EmployeeServiceIO ReadFired	Tue Jun 02 21:21:09 EEST 2020
+addFiredEmployees	Tue Jun 02 21:21:09 EEST 2020
+ENTER PaymentServiceIO ReadData	Tue Jun 02 21:21:09 EEST 2020
+findProduct	Tue Jun 02 21:21:09 EEST 2020
+findProduct	Tue Jun 02 21:21:09 EEST 2020
+
+
+
+		NEW SESSION	Tue Jun 02 21:22:04 EEST 2020
+ENTER ProductServiceIO ReadData	Tue Jun 02 21:22:04 EEST 2020
+EXIT ProductServiceIO ReadData	Tue Jun 02 21:22:04 EEST 2020
+addProduct	Tue Jun 02 21:22:04 EEST 2020
+ENTER EmployeeServiceIO ReadData	Tue Jun 02 21:22:04 EEST 2020
+ENTER EmployeeServiceIO ReadData	Tue Jun 02 21:22:04 EEST 2020
+addEmployees	Tue Jun 02 21:22:04 EEST 2020
+ENTER EmployeeServiceIO ReadFired	Tue Jun 02 21:22:04 EEST 2020
+EXIT EmployeeServiceIO ReadFired	Tue Jun 02 21:22:04 EEST 2020
+addFiredEmployees	Tue Jun 02 21:22:04 EEST 2020
+ENTER PaymentServiceIO ReadData	Tue Jun 02 21:22:04 EEST 2020
+findProduct	Tue Jun 02 21:22:04 EEST 2020
+findProduct	Tue Jun 02 21:22:04 EEST 2020
+findProduct	Tue Jun 02 21:22:04 EEST 2020
+findProduct	Tue Jun 02 21:22:04 EEST 2020
+EXIT PaymentServiceIO ReadData	Tue Jun 02 21:22:04 EEST 2020
+addPayments	Tue Jun 02 21:22:04 EEST 2020
+addProduct	Tue Jun 02 21:22:04 EEST 2020
+removeProduct	Tue Jun 02 21:22:04 EEST 2020
+seeProducts	Tue Jun 02 21:22:04 EEST 2020
+seeEmployees	Tue Jun 02 21:22:04 EEST 2020
+seeFiredEmployees	Tue Jun 02 21:22:04 EEST 2020
+seePayments	Tue Jun 02 21:22:04 EEST 2020
+getProducts	Tue Jun 02 21:22:04 EEST 2020
+ENTER ProductServiceIO WriteData	Tue Jun 02 21:22:04 EEST 2020
+getEmployees	Tue Jun 02 21:22:04 EEST 2020
+getFiredEmployees	Tue Jun 02 21:22:04 EEST 2020
+ENTER EmployeeServiceIO WriteData	Tue Jun 02 21:22:04 EEST 2020
+EXIT EmployeeServiceIO WriteData	Tue Jun 02 21:22:04 EEST 2020
+getPayments	Tue Jun 02 21:22:04 EEST 2020
+ENTER PaymentServiceIO WriteData	Tue Jun 02 21:22:04 EEST 2020
+EXIT PaymentServiceIO WriteData	Tue Jun 02 21:22:04 EEST 2020
+
+
+
+		NEW SESSION	Tue Jun 02 21:29:43 EEST 2020
+ENTER ProductServiceIO ReadData	Tue Jun 02 21:29:43 EEST 2020
+EXIT ProductServiceIO ReadData	Tue Jun 02 21:29:43 EEST 2020
+addProduct	Tue Jun 02 21:29:43 EEST 2020
+ENTER EmployeeServiceIO ReadData	Tue Jun 02 21:29:43 EEST 2020
+ENTER EmployeeServiceIO ReadData	Tue Jun 02 21:29:43 EEST 2020
+addEmployees	Tue Jun 02 21:29:43 EEST 2020
+ENTER EmployeeServiceIO ReadFired	Tue Jun 02 21:29:43 EEST 2020
+EXIT EmployeeServiceIO ReadFired	Tue Jun 02 21:29:43 EEST 2020
+addFiredEmployees	Tue Jun 02 21:29:43 EEST 2020
+ENTER PaymentServiceIO ReadData	Tue Jun 02 21:29:43 EEST 2020
+findProduct	Tue Jun 02 21:29:43 EEST 2020
+findProduct	Tue Jun 02 21:29:43 EEST 2020
+findProduct	Tue Jun 02 21:29:43 EEST 2020
+findProduct	Tue Jun 02 21:29:43 EEST 2020
+EXIT PaymentServiceIO ReadData	Tue Jun 02 21:29:43 EEST 2020
+addPayments	Tue Jun 02 21:29:43 EEST 2020
+addProduct	Tue Jun 02 21:29:43 EEST 2020
+removeProduct	Tue Jun 02 21:29:43 EEST 2020
+seeProducts	Tue Jun 02 21:29:43 EEST 2020
+seeEmployees	Tue Jun 02 21:29:43 EEST 2020
+seeFiredEmployees	Tue Jun 02 21:29:43 EEST 2020
+seePayments	Tue Jun 02 21:29:43 EEST 2020
+getProducts	Tue Jun 02 21:29:43 EEST 2020
+ENTER ProductServiceIO WriteData	Tue Jun 02 21:29:43 EEST 2020
+getEmployees	Tue Jun 02 21:29:43 EEST 2020
+getFiredEmployees	Tue Jun 02 21:29:43 EEST 2020
+ENTER EmployeeServiceIO WriteData	Tue Jun 02 21:29:43 EEST 2020
+EXIT EmployeeServiceIO WriteData	Tue Jun 02 21:29:43 EEST 2020
+getPayments	Tue Jun 02 21:29:43 EEST 2020
+ENTER PaymentServiceIO WriteData	Tue Jun 02 21:29:43 EEST 2020
+EXIT PaymentServiceIO WriteData	Tue Jun 02 21:29:43 EEST 2020
+
+
+
+		NEW SESSION	Tue Jun 02 21:39:36 EEST 2020
+ENTER ProductServiceIO ReadData	Tue Jun 02 21:39:36 EEST 2020
+EXIT ProductServiceIO ReadData	Tue Jun 02 21:39:36 EEST 2020
+addProduct	Tue Jun 02 21:39:36 EEST 2020
+ENTER EmployeeServiceIO ReadData	Tue Jun 02 21:39:36 EEST 2020
+ENTER EmployeeServiceIO ReadData	Tue Jun 02 21:39:36 EEST 2020
+addEmployees	Tue Jun 02 21:39:36 EEST 2020
+ENTER EmployeeServiceIO ReadFired	Tue Jun 02 21:39:36 EEST 2020
+EXIT EmployeeServiceIO ReadFired	Tue Jun 02 21:39:36 EEST 2020
+addFiredEmployees	Tue Jun 02 21:39:36 EEST 2020
+ENTER PaymentServiceIO ReadData	Tue Jun 02 21:39:36 EEST 2020
+findProduct	Tue Jun 02 21:39:36 EEST 2020
+findProduct	Tue Jun 02 21:39:36 EEST 2020
+findProduct	Tue Jun 02 21:39:36 EEST 2020
+findProduct	Tue Jun 02 21:39:36 EEST 2020
+EXIT PaymentServiceIO ReadData	Tue Jun 02 21:39:36 EEST 2020
+addPayments	Tue Jun 02 21:39:36 EEST 2020
+addProduct	Tue Jun 02 21:39:36 EEST 2020
+removeProduct	Tue Jun 02 21:39:36 EEST 2020
+seeProducts	Tue Jun 02 21:39:36 EEST 2020
+seeEmployees	Tue Jun 02 21:39:36 EEST 2020
+seeFiredEmployees	Tue Jun 02 21:39:36 EEST 2020
+seePayments	Tue Jun 02 21:39:36 EEST 2020
+getProducts	Tue Jun 02 21:39:36 EEST 2020
+ENTER ProductServiceIO WriteData	Tue Jun 02 21:39:36 EEST 2020
+EXIT ProductServiceIO WriteData	Tue Jun 02 21:39:36 EEST 2020
+getEmployees	Tue Jun 02 21:39:36 EEST 2020
+getFiredEmployees	Tue Jun 02 21:39:36 EEST 2020
+ENTER EmployeeServiceIO WriteData	Tue Jun 02 21:39:36 EEST 2020
+EXIT EmployeeServiceIO WriteData	Tue Jun 02 21:39:36 EEST 2020
+getPayments	Tue Jun 02 21:39:36 EEST 2020
+ENTER PaymentServiceIO WriteData	Tue Jun 02 21:39:36 EEST 2020
+EXIT PaymentServiceIO WriteData	Tue Jun 02 21:39:36 EEST 2020
+
+
+
+		NEW SESSION	Tue Jun 02 22:02:17 EEST 2020
+ENTER ProductServiceIO ReadData	Tue Jun 02 22:02:17 EEST 2020
+EXIT ProductServiceIO ReadData	Tue Jun 02 22:02:17 EEST 2020
+addProduct	Tue Jun 02 22:02:17 EEST 2020
+ENTER EmployeeServiceIO ReadData	Tue Jun 02 22:02:17 EEST 2020
+ENTER EmployeeServiceIO ReadData	Tue Jun 02 22:02:17 EEST 2020
+addEmployees	Tue Jun 02 22:02:17 EEST 2020
+ENTER EmployeeServiceIO ReadFired	Tue Jun 02 22:02:17 EEST 2020
+EXIT EmployeeServiceIO ReadFired	Tue Jun 02 22:02:17 EEST 2020
+addFiredEmployees	Tue Jun 02 22:02:17 EEST 2020
+ENTER PaymentServiceIO ReadData	Tue Jun 02 22:02:17 EEST 2020
+findProduct	Tue Jun 02 22:02:17 EEST 2020
+findProduct	Tue Jun 02 22:02:17 EEST 2020
+
+
+
+		NEW SESSION	Tue Jun 02 22:05:09 EEST 2020
+ENTER ProductServiceIO ReadData	Tue Jun 02 22:05:09 EEST 2020
+EXIT ProductServiceIO ReadData	Tue Jun 02 22:05:09 EEST 2020
+addProduct	Tue Jun 02 22:05:09 EEST 2020
+ENTER EmployeeServiceIO ReadData	Tue Jun 02 22:05:09 EEST 2020
+ENTER EmployeeServiceIO ReadData	Tue Jun 02 22:05:09 EEST 2020
+addEmployees	Tue Jun 02 22:05:09 EEST 2020
+ENTER EmployeeServiceIO ReadFired	Tue Jun 02 22:05:09 EEST 2020
+EXIT EmployeeServiceIO ReadFired	Tue Jun 02 22:05:09 EEST 2020
+addFiredEmployees	Tue Jun 02 22:05:09 EEST 2020
+addProduct	Tue Jun 02 22:05:09 EEST 2020
+removeProduct	Tue Jun 02 22:05:09 EEST 2020
+seeProducts	Tue Jun 02 22:05:09 EEST 2020
+seeEmployees	Tue Jun 02 22:05:09 EEST 2020
+seeFiredEmployees	Tue Jun 02 22:05:09 EEST 2020
+getEmployees	Tue Jun 02 22:05:09 EEST 2020
+getFiredEmployees	Tue Jun 02 22:05:09 EEST 2020
+ENTER EmployeeServiceIO WriteData	Tue Jun 02 22:05:09 EEST 2020
+EXIT EmployeeServiceIO WriteData	Tue Jun 02 22:05:09 EEST 2020
+
+
+
+		NEW SESSION	Tue Jun 02 22:07:07 EEST 2020
+ENTER ProductServiceIO ReadData	Tue Jun 02 22:07:07 EEST 2020
+addProduct	Tue Jun 02 22:07:07 EEST 2020
+ENTER EmployeeServiceIO ReadData	Tue Jun 02 22:07:07 EEST 2020
+ENTER EmployeeServiceIO ReadData	Tue Jun 02 22:07:07 EEST 2020
+addEmployees	Tue Jun 02 22:07:07 EEST 2020
+ENTER EmployeeServiceIO ReadFired	Tue Jun 02 22:07:07 EEST 2020
+EXIT EmployeeServiceIO ReadFired	Tue Jun 02 22:07:07 EEST 2020
+addFiredEmployees	Tue Jun 02 22:07:07 EEST 2020
+addProduct	Tue Jun 02 22:07:07 EEST 2020
+removeProduct	Tue Jun 02 22:07:07 EEST 2020
+seeProducts	Tue Jun 02 22:07:07 EEST 2020
+seeEmployees	Tue Jun 02 22:07:07 EEST 2020
+seeFiredEmployees	Tue Jun 02 22:07:07 EEST 2020
+getEmployees	Tue Jun 02 22:07:07 EEST 2020
+getFiredEmployees	Tue Jun 02 22:07:07 EEST 2020
+ENTER EmployeeServiceIO WriteData	Tue Jun 02 22:07:07 EEST 2020
+EXIT EmployeeServiceIO WriteData	Tue Jun 02 22:07:07 EEST 2020
+
+
+
+		NEW SESSION	Tue Jun 02 22:08:26 EEST 2020
+ENTER ProductServiceIO ReadData	Tue Jun 02 22:08:26 EEST 2020
+
+
+
+		NEW SESSION	Tue Jun 02 22:09:35 EEST 2020
+ENTER ProductServiceIO ReadData	Tue Jun 02 22:09:35 EEST 2020
+EXIT ProductServiceIO ReadData	Tue Jun 02 22:09:35 EEST 2020
+addProduct	Tue Jun 02 22:09:35 EEST 2020
+ENTER EmployeeServiceIO ReadData	Tue Jun 02 22:09:35 EEST 2020
+ENTER EmployeeServiceIO ReadData	Tue Jun 02 22:09:35 EEST 2020
+addEmployees	Tue Jun 02 22:09:35 EEST 2020
+ENTER EmployeeServiceIO ReadFired	Tue Jun 02 22:09:35 EEST 2020
+EXIT EmployeeServiceIO ReadFired	Tue Jun 02 22:09:35 EEST 2020
+addFiredEmployees	Tue Jun 02 22:09:35 EEST 2020
+addProduct	Tue Jun 02 22:09:35 EEST 2020
+removeProduct	Tue Jun 02 22:09:35 EEST 2020
+seeProducts	Tue Jun 02 22:09:36 EEST 2020
+seeEmployees	Tue Jun 02 22:09:36 EEST 2020
+seeFiredEmployees	Tue Jun 02 22:09:36 EEST 2020
+getEmployees	Tue Jun 02 22:09:36 EEST 2020
+getFiredEmployees	Tue Jun 02 22:09:36 EEST 2020
+ENTER EmployeeServiceIO WriteData	Tue Jun 02 22:09:36 EEST 2020
+EXIT EmployeeServiceIO WriteData	Tue Jun 02 22:09:36 EEST 2020
+
+
+
+		NEW SESSION	Tue Jun 02 22:10:15 EEST 2020
+ENTER ProductServiceIO ReadData	Tue Jun 02 22:10:15 EEST 2020
+EXIT ProductServiceIO ReadData	Tue Jun 02 22:10:16 EEST 2020
+addProduct	Tue Jun 02 22:10:16 EEST 2020
+ENTER EmployeeServiceIO ReadData	Tue Jun 02 22:10:16 EEST 2020
+ENTER EmployeeServiceIO ReadData	Tue Jun 02 22:10:16 EEST 2020
+addEmployees	Tue Jun 02 22:10:16 EEST 2020
+ENTER EmployeeServiceIO ReadFired	Tue Jun 02 22:10:16 EEST 2020
+EXIT EmployeeServiceIO ReadFired	Tue Jun 02 22:10:16 EEST 2020
+addFiredEmployees	Tue Jun 02 22:10:16 EEST 2020
+addProduct	Tue Jun 02 22:10:16 EEST 2020
+removeProduct	Tue Jun 02 22:10:16 EEST 2020
+seeProducts	Tue Jun 02 22:10:16 EEST 2020
+seeEmployees	Tue Jun 02 22:10:16 EEST 2020
+seeFiredEmployees	Tue Jun 02 22:10:16 EEST 2020
+getEmployees	Tue Jun 02 22:10:16 EEST 2020
+getFiredEmployees	Tue Jun 02 22:10:16 EEST 2020
+ENTER EmployeeServiceIO WriteData	Tue Jun 02 22:10:16 EEST 2020
+EXIT EmployeeServiceIO WriteData	Tue Jun 02 22:10:16 EEST 2020
+
+
+
+		NEW SESSION	Tue Jun 02 22:57:14 EEST 2020
+ENTER ProductServiceIO ReadData	Tue Jun 02 22:57:14 EEST 2020
+EXIT ProductServiceIO ReadData	Tue Jun 02 22:57:14 EEST 2020
+addProduct	Tue Jun 02 22:57:14 EEST 2020
+ENTER ProductServiceIO WriteDatas	Tue Jun 02 22:57:14 EEST 2020
+ENTER EmployeeServiceIO ReadData	Tue Jun 02 22:57:14 EEST 2020
+ENTER EmployeeServiceIO ReadData	Tue Jun 02 22:57:14 EEST 2020
+addEmployees	Tue Jun 02 22:57:14 EEST 2020
+ENTER EmployeeServiceIO ReadFired	Tue Jun 02 22:57:14 EEST 2020
+EXIT EmployeeServiceIO ReadFired	Tue Jun 02 22:57:14 EEST 2020
+addFiredEmployees	Tue Jun 02 22:57:14 EEST 2020
+ENTER PaymentServiceIO ReadData	Tue Jun 02 22:57:14 EEST 2020
+findProduct	Tue Jun 02 22:57:14 EEST 2020
+findProduct	Tue Jun 02 22:57:14 EEST 2020
+
+
+
+		NEW SESSION	Tue Jun 02 23:00:03 EEST 2020
+ENTER ProductServiceIO ReadData	Tue Jun 02 23:00:03 EEST 2020
+EXIT ProductServiceIO ReadData	Tue Jun 02 23:00:03 EEST 2020
+addProduct	Tue Jun 02 23:00:03 EEST 2020
+ENTER ProductServiceIO WriteDatas	Tue Jun 02 23:00:03 EEST 2020
+ENTER EmployeeServiceIO ReadData	Tue Jun 02 23:00:03 EEST 2020
+ENTER EmployeeServiceIO ReadData	Tue Jun 02 23:00:03 EEST 2020
+addEmployees	Tue Jun 02 23:00:03 EEST 2020
+ENTER EmployeeServiceIO ReadFired	Tue Jun 02 23:00:03 EEST 2020
+EXIT EmployeeServiceIO ReadFired	Tue Jun 02 23:00:03 EEST 2020
+addFiredEmployees	Tue Jun 02 23:00:03 EEST 2020
+ENTER PaymentServiceIO ReadData	Tue Jun 02 23:00:03 EEST 2020
+findProduct	Tue Jun 02 23:00:03 EEST 2020
+findProduct	Tue Jun 02 23:00:03 EEST 2020
+
+
+
+		NEW SESSION	Tue Jun 02 23:00:54 EEST 2020
+ENTER EmployeeServiceIO ReadData	Tue Jun 02 23:00:54 EEST 2020
+ENTER EmployeeServiceIO ReadData	Tue Jun 02 23:00:54 EEST 2020
+addEmployees	Tue Jun 02 23:00:54 EEST 2020
+ENTER EmployeeServiceIO ReadFired	Tue Jun 02 23:00:54 EEST 2020
+EXIT EmployeeServiceIO ReadFired	Tue Jun 02 23:00:54 EEST 2020
+addFiredEmployees	Tue Jun 02 23:00:54 EEST 2020
+ENTER PaymentServiceIO ReadData	Tue Jun 02 23:00:54 EEST 2020
+findProduct	Tue Jun 02 23:00:54 EEST 2020
+findProduct	Tue Jun 02 23:00:54 EEST 2020
+
+
+
+		NEW SESSION	Tue Jun 02 23:01:05 EEST 2020
+ENTER EmployeeServiceIO ReadData	Tue Jun 02 23:01:05 EEST 2020
+ENTER EmployeeServiceIO ReadData	Tue Jun 02 23:01:05 EEST 2020
+addEmployees	Tue Jun 02 23:01:05 EEST 2020
+ENTER EmployeeServiceIO ReadFired	Tue Jun 02 23:01:05 EEST 2020
+EXIT EmployeeServiceIO ReadFired	Tue Jun 02 23:01:05 EEST 2020
+addFiredEmployees	Tue Jun 02 23:01:05 EEST 2020
+addProduct	Tue Jun 02 23:01:05 EEST 2020
+ENTER ProductServiceIO WriteData	Tue Jun 02 23:01:05 EEST 2020
+seeProducts	Tue Jun 02 23:01:05 EEST 2020
+seeEmployees	Tue Jun 02 23:01:05 EEST 2020
+seeFiredEmployees	Tue Jun 02 23:01:05 EEST 2020
+getEmployees	Tue Jun 02 23:01:05 EEST 2020
+getFiredEmployees	Tue Jun 02 23:01:05 EEST 2020
+ENTER EmployeeServiceIO WriteData	Tue Jun 02 23:01:05 EEST 2020
+EXIT EmployeeServiceIO WriteData	Tue Jun 02 23:01:05 EEST 2020
+
+
+
+		NEW SESSION	Tue Jun 02 23:07:17 EEST 2020
+ENTER EmployeeServiceIO ReadData	Tue Jun 02 23:07:17 EEST 2020
+ENTER EmployeeServiceIO ReadData	Tue Jun 02 23:07:17 EEST 2020
+addEmployees	Tue Jun 02 23:07:17 EEST 2020
+ENTER EmployeeServiceIO ReadFired	Tue Jun 02 23:07:17 EEST 2020
+EXIT EmployeeServiceIO ReadFired	Tue Jun 02 23:07:17 EEST 2020
+addFiredEmployees	Tue Jun 02 23:07:17 EEST 2020
+addProduct	Tue Jun 02 23:07:17 EEST 2020
+ENTER ProductServiceIO WriteData	Tue Jun 02 23:07:17 EEST 2020
+seeProducts	Tue Jun 02 23:07:17 EEST 2020
+seeEmployees	Tue Jun 02 23:07:17 EEST 2020
+seeFiredEmployees	Tue Jun 02 23:07:17 EEST 2020
+getEmployees	Tue Jun 02 23:07:17 EEST 2020
+getFiredEmployees	Tue Jun 02 23:07:17 EEST 2020
+ENTER EmployeeServiceIO WriteData	Tue Jun 02 23:07:17 EEST 2020
+EXIT EmployeeServiceIO WriteData	Tue Jun 02 23:07:17 EEST 2020
+
+
+
+		NEW SESSION	Tue Jun 02 23:08:31 EEST 2020
+ENTER EmployeeServiceIO ReadData	Tue Jun 02 23:08:31 EEST 2020
+ENTER EmployeeServiceIO ReadData	Tue Jun 02 23:08:31 EEST 2020
+addEmployees	Tue Jun 02 23:08:31 EEST 2020
+ENTER EmployeeServiceIO ReadFired	Tue Jun 02 23:08:31 EEST 2020
+EXIT EmployeeServiceIO ReadFired	Tue Jun 02 23:08:31 EEST 2020
+addFiredEmployees	Tue Jun 02 23:08:31 EEST 2020
+addProduct	Tue Jun 02 23:08:31 EEST 2020
+ENTER ProductServiceIO WriteData	Tue Jun 02 23:08:31 EEST 2020
+EXIT ProductServiceIO WriteData	Tue Jun 02 23:08:31 EEST 2020
+seeProducts	Tue Jun 02 23:08:31 EEST 2020
+seeEmployees	Tue Jun 02 23:08:31 EEST 2020
+seeFiredEmployees	Tue Jun 02 23:08:31 EEST 2020
+getEmployees	Tue Jun 02 23:08:31 EEST 2020
+getFiredEmployees	Tue Jun 02 23:08:31 EEST 2020
+ENTER EmployeeServiceIO WriteData	Tue Jun 02 23:08:31 EEST 2020
+EXIT EmployeeServiceIO WriteData	Tue Jun 02 23:08:31 EEST 2020
+
+
+
+		NEW SESSION	Tue Jun 02 23:10:43 EEST 2020
+ENTER EmployeeServiceIO ReadData	Tue Jun 02 23:10:43 EEST 2020
+ENTER EmployeeServiceIO ReadData	Tue Jun 02 23:10:43 EEST 2020
+addEmployees	Tue Jun 02 23:10:43 EEST 2020
+ENTER EmployeeServiceIO ReadFired	Tue Jun 02 23:10:43 EEST 2020
+EXIT EmployeeServiceIO ReadFired	Tue Jun 02 23:10:43 EEST 2020
+addFiredEmployees	Tue Jun 02 23:10:43 EEST 2020
+removeProduct	Tue Jun 02 23:10:43 EEST 2020
+
+
+
+		NEW SESSION	Tue Jun 02 23:11:06 EEST 2020
+ENTER EmployeeServiceIO ReadData	Tue Jun 02 23:11:06 EEST 2020
+ENTER EmployeeServiceIO ReadData	Tue Jun 02 23:11:06 EEST 2020
+addEmployees	Tue Jun 02 23:11:06 EEST 2020
+ENTER EmployeeServiceIO ReadFired	Tue Jun 02 23:11:06 EEST 2020
+EXIT EmployeeServiceIO ReadFired	Tue Jun 02 23:11:06 EEST 2020
+addFiredEmployees	Tue Jun 02 23:11:06 EEST 2020
+removeProduct	Tue Jun 02 23:11:06 EEST 2020
+seeProducts	Tue Jun 02 23:11:06 EEST 2020
+seeEmployees	Tue Jun 02 23:11:06 EEST 2020
+seeFiredEmployees	Tue Jun 02 23:11:06 EEST 2020
+getEmployees	Tue Jun 02 23:11:06 EEST 2020
+getFiredEmployees	Tue Jun 02 23:11:06 EEST 2020
+ENTER EmployeeServiceIO WriteData	Tue Jun 02 23:11:06 EEST 2020
+EXIT EmployeeServiceIO WriteData	Tue Jun 02 23:11:06 EEST 2020
+
+
+
+		NEW SESSION	Tue Jun 02 23:39:13 EEST 2020
+ENTER ProductServiceIO ReadData	Tue Jun 02 23:39:13 EEST 2020
+EXIT ProductServiceIO ReadData	Tue Jun 02 23:39:13 EEST 2020
+addToMemory	Tue Jun 02 23:39:13 EEST 2020
+ENTER EmployeeServiceIO ReadData	Tue Jun 02 23:39:13 EEST 2020
+ENTER EmployeeServiceIO ReadData	Tue Jun 02 23:39:13 EEST 2020
+addEmployees	Tue Jun 02 23:39:13 EEST 2020
+ENTER EmployeeServiceIO ReadFired	Tue Jun 02 23:39:13 EEST 2020
+EXIT EmployeeServiceIO ReadFired	Tue Jun 02 23:39:13 EEST 2020
+addFiredEmployees	Tue Jun 02 23:39:13 EEST 2020
+ENTER PaymentServiceIO ReadData	Tue Jun 02 23:39:13 EEST 2020
+findProduct	Tue Jun 02 23:39:13 EEST 2020
+findProduct	Tue Jun 02 23:39:13 EEST 2020
+findProduct	Tue Jun 02 23:39:13 EEST 2020
+findProduct	Tue Jun 02 23:39:13 EEST 2020
+EXIT PaymentServiceIO ReadData	Tue Jun 02 23:39:13 EEST 2020
+addPayments	Tue Jun 02 23:39:13 EEST 2020
+seeProducts	Tue Jun 02 23:39:13 EEST 2020
+seeEmployees	Tue Jun 02 23:39:13 EEST 2020
+seeFiredEmployees	Tue Jun 02 23:39:13 EEST 2020
+getEmployees	Tue Jun 02 23:39:13 EEST 2020
+getFiredEmployees	Tue Jun 02 23:39:13 EEST 2020
+ENTER EmployeeServiceIO WriteData	Tue Jun 02 23:39:13 EEST 2020
+EXIT EmployeeServiceIO WriteData	Tue Jun 02 23:39:13 EEST 2020
+
+
+
+		NEW SESSION	Tue Jun 02 23:46:43 EEST 2020
+ENTER ProductServiceIO ReadData	Tue Jun 02 23:46:43 EEST 2020
+EXIT ProductServiceIO ReadData	Tue Jun 02 23:46:43 EEST 2020
+addToMemory	Tue Jun 02 23:46:43 EEST 2020
+ENTER EmployeeServiceIO ReadData	Tue Jun 02 23:46:43 EEST 2020
+ENTER EmployeeServiceIO ReadData	Tue Jun 02 23:46:43 EEST 2020
+addEmployees	Tue Jun 02 23:46:43 EEST 2020
+ENTER EmployeeServiceIO ReadFired	Tue Jun 02 23:46:43 EEST 2020
+EXIT EmployeeServiceIO ReadFired	Tue Jun 02 23:46:43 EEST 2020
+addFiredEmployees	Tue Jun 02 23:46:43 EEST 2020
+ENTER PaymentServiceIO ReadData	Tue Jun 02 23:46:43 EEST 2020
+findProduct	Tue Jun 02 23:46:43 EEST 2020
+findProduct	Tue Jun 02 23:46:43 EEST 2020
+findProduct	Tue Jun 02 23:46:43 EEST 2020
+findProduct	Tue Jun 02 23:46:43 EEST 2020
+EXIT PaymentServiceIO ReadData	Tue Jun 02 23:46:43 EEST 2020
+addPayments	Tue Jun 02 23:46:43 EEST 2020
+addProduct	Tue Jun 02 23:46:43 EEST 2020
+ENTER ProductServiceIO WriteData	Tue Jun 02 23:46:43 EEST 2020
+EXIT ProductServiceIO WriteData	Tue Jun 02 23:46:43 EEST 2020
+seeProducts	Tue Jun 02 23:46:43 EEST 2020
+seeEmployees	Tue Jun 02 23:46:43 EEST 2020
+seeFiredEmployees	Tue Jun 02 23:46:43 EEST 2020
+getEmployees	Tue Jun 02 23:46:43 EEST 2020
+getFiredEmployees	Tue Jun 02 23:46:43 EEST 2020
+ENTER EmployeeServiceIO WriteData	Tue Jun 02 23:46:43 EEST 2020
+EXIT EmployeeServiceIO WriteData	Tue Jun 02 23:46:43 EEST 2020
+
+
+
+		NEW SESSION	Tue Jun 02 23:47:50 EEST 2020
+ENTER ProductServiceIO ReadData	Tue Jun 02 23:47:50 EEST 2020
+EXIT ProductServiceIO ReadData	Tue Jun 02 23:47:50 EEST 2020
+addToMemory	Tue Jun 02 23:47:50 EEST 2020
+ENTER EmployeeServiceIO ReadData	Tue Jun 02 23:47:50 EEST 2020
+ENTER EmployeeServiceIO ReadData	Tue Jun 02 23:47:50 EEST 2020
+addEmployees	Tue Jun 02 23:47:50 EEST 2020
+ENTER EmployeeServiceIO ReadFired	Tue Jun 02 23:47:50 EEST 2020
+EXIT EmployeeServiceIO ReadFired	Tue Jun 02 23:47:50 EEST 2020
+addFiredEmployees	Tue Jun 02 23:47:50 EEST 2020
+ENTER PaymentServiceIO ReadData	Tue Jun 02 23:47:50 EEST 2020
+findProduct	Tue Jun 02 23:47:50 EEST 2020
+findProduct	Tue Jun 02 23:47:50 EEST 2020
+findProduct	Tue Jun 02 23:47:50 EEST 2020
+findProduct	Tue Jun 02 23:47:50 EEST 2020
+EXIT PaymentServiceIO ReadData	Tue Jun 02 23:47:50 EEST 2020
+addPayments	Tue Jun 02 23:47:50 EEST 2020
+seeProducts	Tue Jun 02 23:47:50 EEST 2020
+seeEmployees	Tue Jun 02 23:47:50 EEST 2020
+seeFiredEmployees	Tue Jun 02 23:47:50 EEST 2020
+getEmployees	Tue Jun 02 23:47:50 EEST 2020
+getFiredEmployees	Tue Jun 02 23:47:50 EEST 2020
+ENTER EmployeeServiceIO WriteData	Tue Jun 02 23:47:50 EEST 2020
+EXIT EmployeeServiceIO WriteData	Tue Jun 02 23:47:50 EEST 2020
+
+
+
+		NEW SESSION	Wed Jun 03 14:25:58 EEST 2020
+ENTER ProductServiceIO ReadData	Wed Jun 03 14:25:58 EEST 2020
+EXIT ProductServiceIO ReadData	Wed Jun 03 14:25:58 EEST 2020
+addToMemory	Wed Jun 03 14:25:58 EEST 2020
+ENTER EmployeeServiceIO ReadData	Wed Jun 03 14:25:58 EEST 2020
+ENTER EmployeeServiceIO ReadData	Wed Jun 03 14:25:58 EEST 2020
+addEmployees	Wed Jun 03 14:25:58 EEST 2020
+ENTER EmployeeServiceIO ReadFired	Wed Jun 03 14:25:58 EEST 2020
+EXIT EmployeeServiceIO ReadFired	Wed Jun 03 14:25:58 EEST 2020
+addFiredEmployees	Wed Jun 03 14:25:58 EEST 2020
+ENTER PaymentServiceIO ReadData	Wed Jun 03 14:25:58 EEST 2020
+findProduct	Wed Jun 03 14:25:58 EEST 2020
+findProduct	Wed Jun 03 14:25:58 EEST 2020
+findProduct	Wed Jun 03 14:25:58 EEST 2020
+findProduct	Wed Jun 03 14:25:58 EEST 2020
+EXIT PaymentServiceIO ReadData	Wed Jun 03 14:25:58 EEST 2020
+addPayments	Wed Jun 03 14:25:58 EEST 2020
+seeProducts	Wed Jun 03 14:25:58 EEST 2020
+seeEmployees	Wed Jun 03 14:25:58 EEST 2020
+seeFiredEmployees	Wed Jun 03 14:25:58 EEST 2020
+getEmployees	Wed Jun 03 14:25:58 EEST 2020
+getFiredEmployees	Wed Jun 03 14:25:58 EEST 2020
+ENTER EmployeeServiceIO WriteData	Wed Jun 03 14:25:58 EEST 2020
+EXIT EmployeeServiceIO WriteData	Wed Jun 03 14:25:58 EEST 2020
+
+
+
+		NEW SESSION	Wed Jun 03 14:29:27 EEST 2020
+ENTER ProductServiceIO ReadData	Wed Jun 03 14:29:27 EEST 2020
+EXIT ProductServiceIO ReadData	Wed Jun 03 14:29:27 EEST 2020
+addToMemory	Wed Jun 03 14:29:27 EEST 2020
+ENTER EmployeeServiceIO ReadData	Wed Jun 03 14:29:27 EEST 2020
+ENTER EmployeeServiceIO ReadData	Wed Jun 03 14:29:27 EEST 2020
+addEmployees	Wed Jun 03 14:29:27 EEST 2020
+ENTER EmployeeServiceIO ReadFired	Wed Jun 03 14:29:27 EEST 2020
+EXIT EmployeeServiceIO ReadFired	Wed Jun 03 14:29:27 EEST 2020
+addFiredEmployees	Wed Jun 03 14:29:27 EEST 2020
+ENTER PaymentServiceIO ReadData	Wed Jun 03 14:29:27 EEST 2020
+findProduct	Wed Jun 03 14:29:27 EEST 2020
+findProduct	Wed Jun 03 14:29:27 EEST 2020
+findProduct	Wed Jun 03 14:29:27 EEST 2020
+findProduct	Wed Jun 03 14:29:27 EEST 2020
+EXIT PaymentServiceIO ReadData	Wed Jun 03 14:29:27 EEST 2020
+addPayments	Wed Jun 03 14:29:27 EEST 2020
+seeProducts	Wed Jun 03 14:29:27 EEST 2020
+seeEmployees	Wed Jun 03 14:29:27 EEST 2020
+seeFiredEmployees	Wed Jun 03 14:29:27 EEST 2020
+getEmployees	Wed Jun 03 14:29:27 EEST 2020
+getFiredEmployees	Wed Jun 03 14:29:27 EEST 2020
+ENTER EmployeeServiceIO WriteData	Wed Jun 03 14:29:31 EEST 2020
+EXIT EmployeeServiceIO WriteData	Wed Jun 03 14:29:41 EEST 2020
+
+
+
+		NEW SESSION	Wed Jun 03 14:30:19 EEST 2020
+ENTER ProductServiceIO ReadData	Wed Jun 03 14:30:19 EEST 2020
+EXIT ProductServiceIO ReadData	Wed Jun 03 14:30:19 EEST 2020
+addToMemory	Wed Jun 03 14:30:19 EEST 2020
+ENTER EmployeeServiceIO ReadData	Wed Jun 03 14:30:19 EEST 2020
+ENTER EmployeeServiceIO ReadData	Wed Jun 03 14:30:19 EEST 2020
+addEmployees	Wed Jun 03 14:30:19 EEST 2020
+ENTER EmployeeServiceIO ReadFired	Wed Jun 03 14:30:19 EEST 2020
+EXIT EmployeeServiceIO ReadFired	Wed Jun 03 14:30:19 EEST 2020
+addFiredEmployees	Wed Jun 03 14:30:19 EEST 2020
+ENTER PaymentServiceIO ReadData	Wed Jun 03 14:30:19 EEST 2020
+findProduct	Wed Jun 03 14:30:19 EEST 2020
+findProduct	Wed Jun 03 14:30:19 EEST 2020
+findProduct	Wed Jun 03 14:30:19 EEST 2020
+findProduct	Wed Jun 03 14:30:19 EEST 2020
+EXIT PaymentServiceIO ReadData	Wed Jun 03 14:30:19 EEST 2020
+addPayments	Wed Jun 03 14:30:19 EEST 2020
+seeProducts	Wed Jun 03 14:30:19 EEST 2020
+seeEmployees	Wed Jun 03 14:30:19 EEST 2020
+seeFiredEmployees	Wed Jun 03 14:30:19 EEST 2020
+getEmployees	Wed Jun 03 14:30:19 EEST 2020
+getFiredEmployees	Wed Jun 03 14:30:19 EEST 2020
+ENTER EmployeeServiceIO WriteData	Wed Jun 03 14:30:19 EEST 2020
+EXIT EmployeeServiceIO WriteData	Wed Jun 03 14:30:19 EEST 2020
+
+
+
+		NEW SESSION	Wed Jun 03 14:31:13 EEST 2020
+ENTER ProductServiceIO ReadData	Wed Jun 03 14:31:13 EEST 2020
+EXIT ProductServiceIO ReadData	Wed Jun 03 14:31:13 EEST 2020
+addToMemory	Wed Jun 03 14:31:13 EEST 2020
+ENTER EmployeeServiceIO ReadData	Wed Jun 03 14:31:13 EEST 2020
+ENTER EmployeeServiceIO ReadData	Wed Jun 03 14:31:13 EEST 2020
+addEmployees	Wed Jun 03 14:31:13 EEST 2020
+ENTER EmployeeServiceIO ReadFired	Wed Jun 03 14:31:13 EEST 2020
+EXIT EmployeeServiceIO ReadFired	Wed Jun 03 14:31:13 EEST 2020
+addFiredEmployees	Wed Jun 03 14:31:13 EEST 2020
+ENTER PaymentServiceIO ReadData	Wed Jun 03 14:31:13 EEST 2020
+findProduct	Wed Jun 03 14:31:13 EEST 2020
+findProduct	Wed Jun 03 14:31:13 EEST 2020
+findProduct	Wed Jun 03 14:31:13 EEST 2020
+findProduct	Wed Jun 03 14:31:13 EEST 2020
+EXIT PaymentServiceIO ReadData	Wed Jun 03 14:31:13 EEST 2020
+addPayments	Wed Jun 03 14:31:13 EEST 2020
+seeProducts	Wed Jun 03 14:31:13 EEST 2020
+seeEmployees	Wed Jun 03 14:31:13 EEST 2020
+seeFiredEmployees	Wed Jun 03 14:31:13 EEST 2020
+getEmployees	Wed Jun 03 14:31:13 EEST 2020
+getFiredEmployees	Wed Jun 03 14:31:13 EEST 2020
+ENTER EmployeeServiceIO WriteData	Wed Jun 03 14:31:13 EEST 2020
+EXIT EmployeeServiceIO WriteData	Wed Jun 03 14:31:13 EEST 2020
+
+
+
+		NEW SESSION	Wed Jun 03 14:32:01 EEST 2020
+ENTER ProductServiceIO ReadData	Wed Jun 03 14:32:01 EEST 2020
+EXIT ProductServiceIO ReadData	Wed Jun 03 14:32:01 EEST 2020
+addToMemory	Wed Jun 03 14:32:01 EEST 2020
+ENTER EmployeeServiceIO ReadData	Wed Jun 03 14:32:01 EEST 2020
+ENTER EmployeeServiceIO ReadData	Wed Jun 03 14:32:01 EEST 2020
+addEmployees	Wed Jun 03 14:32:01 EEST 2020
+ENTER EmployeeServiceIO ReadFired	Wed Jun 03 14:32:01 EEST 2020
+EXIT EmployeeServiceIO ReadFired	Wed Jun 03 14:32:01 EEST 2020
+addFiredEmployees	Wed Jun 03 14:32:01 EEST 2020
+ENTER PaymentServiceIO ReadData	Wed Jun 03 14:32:01 EEST 2020
+findProduct	Wed Jun 03 14:32:01 EEST 2020
+findProduct	Wed Jun 03 14:32:01 EEST 2020
+findProduct	Wed Jun 03 14:32:01 EEST 2020
+findProduct	Wed Jun 03 14:32:01 EEST 2020
+EXIT PaymentServiceIO ReadData	Wed Jun 03 14:32:01 EEST 2020
+addPayments	Wed Jun 03 14:32:01 EEST 2020
+seeProducts	Wed Jun 03 14:32:01 EEST 2020
+seeEmployees	Wed Jun 03 14:32:01 EEST 2020
+seeFiredEmployees	Wed Jun 03 14:32:01 EEST 2020
+getProducts	Wed Jun 03 14:32:01 EEST 2020
+ENTER ProductServiceIO WriteDatas	Wed Jun 03 14:32:01 EEST 2020
+EXIT ProductServiceIO WriteDatas	Wed Jun 03 14:32:01 EEST 2020
+getEmployees	Wed Jun 03 14:32:01 EEST 2020
+getFiredEmployees	Wed Jun 03 14:32:01 EEST 2020
+ENTER EmployeeServiceIO WriteData	Wed Jun 03 14:32:01 EEST 2020
+EXIT EmployeeServiceIO WriteData	Wed Jun 03 14:32:01 EEST 2020
+
+
+
+		NEW SESSION	Wed Jun 03 14:36:30 EEST 2020
+ENTER ProductServiceIO ReadData	Wed Jun 03 14:36:30 EEST 2020
+EXIT ProductServiceIO ReadData	Wed Jun 03 14:36:30 EEST 2020
+addToMemory	Wed Jun 03 14:36:30 EEST 2020
+ENTER PaymentServiceIO ReadData	Wed Jun 03 14:36:30 EEST 2020
+findProduct	Wed Jun 03 14:36:30 EEST 2020
+findProduct	Wed Jun 03 14:36:30 EEST 2020
+findProduct	Wed Jun 03 14:36:30 EEST 2020
+findProduct	Wed Jun 03 14:36:30 EEST 2020
+EXIT PaymentServiceIO ReadData	Wed Jun 03 14:36:30 EEST 2020
+addPayments	Wed Jun 03 14:36:30 EEST 2020
+seeProducts	Wed Jun 03 14:36:30 EEST 2020
+seeEmployees	Wed Jun 03 14:36:30 EEST 2020
+seeFiredEmployees	Wed Jun 03 14:36:30 EEST 2020
+getEmployees	Wed Jun 03 14:36:30 EEST 2020
+getFiredEmployees	Wed Jun 03 14:36:30 EEST 2020
+ENTER EmployeeServiceIO WriteData	Wed Jun 03 14:36:30 EEST 2020
+EXIT EmployeeServiceIO WriteData	Wed Jun 03 14:36:30 EEST 2020
+
+
+
+		NEW SESSION	Wed Jun 03 14:37:46 EEST 2020
+ENTER ProductServiceIO ReadData	Wed Jun 03 14:37:46 EEST 2020
+EXIT ProductServiceIO ReadData	Wed Jun 03 14:37:46 EEST 2020
+addToMemory	Wed Jun 03 14:37:46 EEST 2020
+ENTER PaymentServiceIO ReadData	Wed Jun 03 14:37:46 EEST 2020
+findProduct	Wed Jun 03 14:37:46 EEST 2020
+findProduct	Wed Jun 03 14:37:46 EEST 2020
+findProduct	Wed Jun 03 14:37:46 EEST 2020
+findProduct	Wed Jun 03 14:37:46 EEST 2020
+EXIT PaymentServiceIO ReadData	Wed Jun 03 14:37:46 EEST 2020
+addPayments	Wed Jun 03 14:37:46 EEST 2020
+seeProducts	Wed Jun 03 14:37:46 EEST 2020
+seeEmployees	Wed Jun 03 14:37:46 EEST 2020
+seeFiredEmployees	Wed Jun 03 14:37:46 EEST 2020
+getEmployees	Wed Jun 03 14:37:46 EEST 2020
+getFiredEmployees	Wed Jun 03 14:37:46 EEST 2020
+ENTER EmployeeServiceIO WriteData	Wed Jun 03 14:37:46 EEST 2020
+EXIT EmployeeServiceIO WriteData	Wed Jun 03 14:37:46 EEST 2020
+
+
+
+		NEW SESSION	Wed Jun 03 14:38:30 EEST 2020
+ENTER ProductServiceIO ReadData	Wed Jun 03 14:38:30 EEST 2020
+EXIT ProductServiceIO ReadData	Wed Jun 03 14:38:30 EEST 2020
+addToMemory	Wed Jun 03 14:38:30 EEST 2020
+ENTER EmployeeServiceIO ReadData	Wed Jun 03 14:38:30 EEST 2020
+ENTER EmployeeServiceIO ReadData	Wed Jun 03 14:38:30 EEST 2020
+addEmployees	Wed Jun 03 14:38:30 EEST 2020
+ENTER EmployeeServiceIO ReadFired	Wed Jun 03 14:38:30 EEST 2020
+EXIT EmployeeServiceIO ReadFired	Wed Jun 03 14:38:30 EEST 2020
+addFiredEmployees	Wed Jun 03 14:38:30 EEST 2020
+ENTER PaymentServiceIO ReadData	Wed Jun 03 14:38:30 EEST 2020
+findProduct	Wed Jun 03 14:38:30 EEST 2020
+findProduct	Wed Jun 03 14:38:30 EEST 2020
+findProduct	Wed Jun 03 14:38:30 EEST 2020
+findProduct	Wed Jun 03 14:38:30 EEST 2020
+EXIT PaymentServiceIO ReadData	Wed Jun 03 14:38:30 EEST 2020
+addPayments	Wed Jun 03 14:38:30 EEST 2020
+seeProducts	Wed Jun 03 14:38:30 EEST 2020
+seeEmployees	Wed Jun 03 14:38:30 EEST 2020
+seeFiredEmployees	Wed Jun 03 14:38:30 EEST 2020
+getEmployees	Wed Jun 03 14:38:30 EEST 2020
+getFiredEmployees	Wed Jun 03 14:38:30 EEST 2020
+ENTER EmployeeServiceIO WriteData	Wed Jun 03 14:38:30 EEST 2020
+EXIT EmployeeServiceIO WriteData	Wed Jun 03 14:38:30 EEST 2020
+
+
+
+		NEW SESSION	Wed Jun 03 14:47:05 EEST 2020
+ENTER ProductServiceIO ReadData	Wed Jun 03 14:47:05 EEST 2020
+EXIT ProductServiceIO ReadData	Wed Jun 03 14:47:05 EEST 2020
+addToMemory	Wed Jun 03 14:47:05 EEST 2020
+ENTER EmployeeServiceIO ReadData	Wed Jun 03 14:47:05 EEST 2020
+
+
+
+		NEW SESSION	Wed Jun 03 14:47:55 EEST 2020
+ENTER ProductServiceIO ReadData	Wed Jun 03 14:47:55 EEST 2020
+EXIT ProductServiceIO ReadData	Wed Jun 03 14:47:55 EEST 2020
+addToMemory	Wed Jun 03 14:47:55 EEST 2020
+ENTER EmployeeServiceIO ReadData	Wed Jun 03 14:47:55 EEST 2020
+
+
+
+		NEW SESSION	Wed Jun 03 14:48:10 EEST 2020
+ENTER ProductServiceIO ReadData	Wed Jun 03 14:48:10 EEST 2020
+EXIT ProductServiceIO ReadData	Wed Jun 03 14:48:11 EEST 2020
+addToMemory	Wed Jun 03 14:48:11 EEST 2020
+ENTER EmployeeServiceIO ReadData	Wed Jun 03 14:48:11 EEST 2020
+
+
+
+		NEW SESSION	Wed Jun 03 14:48:54 EEST 2020
+ENTER ProductServiceIO ReadData	Wed Jun 03 14:48:54 EEST 2020
+EXIT ProductServiceIO ReadData	Wed Jun 03 14:48:54 EEST 2020
+addToMemory	Wed Jun 03 14:48:54 EEST 2020
+ENTER EmployeeServiceIO ReadData	Wed Jun 03 14:48:54 EEST 2020
+
+
+
+		NEW SESSION	Wed Jun 03 14:51:13 EEST 2020
+ENTER ProductServiceIO ReadData	Wed Jun 03 14:51:13 EEST 2020
+EXIT ProductServiceIO ReadData	Wed Jun 03 14:51:13 EEST 2020
+addToMemory	Wed Jun 03 14:51:13 EEST 2020
+ENTER EmployeeServiceIO ReadData	Wed Jun 03 14:51:13 EEST 2020
+EXIT EmployeeServiceIO ReadData	Wed Jun 03 14:51:13 EEST 2020
+addEmployees	Wed Jun 03 14:51:13 EEST 2020
+ENTER EmployeeServiceIO ReadFired	Wed Jun 03 14:51:13 EEST 2020
+EXIT EmployeeServiceIO ReadFired	Wed Jun 03 14:51:13 EEST 2020
+addFiredEmployees	Wed Jun 03 14:51:13 EEST 2020
+ENTER PaymentServiceIO ReadData	Wed Jun 03 14:51:13 EEST 2020
+findProduct	Wed Jun 03 14:51:13 EEST 2020
+findProduct	Wed Jun 03 14:51:13 EEST 2020
+findProduct	Wed Jun 03 14:51:13 EEST 2020
+findProduct	Wed Jun 03 14:51:13 EEST 2020
+EXIT PaymentServiceIO ReadData	Wed Jun 03 14:51:13 EEST 2020
+addPayments	Wed Jun 03 14:51:13 EEST 2020
+seeProducts	Wed Jun 03 14:51:13 EEST 2020
+seeEmployees	Wed Jun 03 14:51:13 EEST 2020
+seeFiredEmployees	Wed Jun 03 14:51:13 EEST 2020
+
+
+
+		NEW SESSION	Wed Jun 03 15:13:07 EEST 2020
+ENTER ProductServiceIO ReadData	Wed Jun 03 15:13:07 EEST 2020
+EXIT ProductServiceIO ReadData	Wed Jun 03 15:13:07 EEST 2020
+addToMemory	Wed Jun 03 15:13:07 EEST 2020
+ENTER EmployeeServiceIO ReadData	Wed Jun 03 15:13:07 EEST 2020
+EXIT EmployeeServiceIO ReadData	Wed Jun 03 15:13:07 EEST 2020
+addEmployees	Wed Jun 03 15:13:07 EEST 2020
+ENTER EmployeeServiceIO ReadFired	Wed Jun 03 15:13:07 EEST 2020
+EXIT EmployeeServiceIO ReadFired	Wed Jun 03 15:13:07 EEST 2020
+addFiredEmployees	Wed Jun 03 15:13:07 EEST 2020
+ENTER PaymentServiceIO ReadData	Wed Jun 03 15:13:07 EEST 2020
+findProduct	Wed Jun 03 15:13:07 EEST 2020
+findProduct	Wed Jun 03 15:13:07 EEST 2020
+findProduct	Wed Jun 03 15:13:07 EEST 2020
+findProduct	Wed Jun 03 15:13:07 EEST 2020
+EXIT PaymentServiceIO ReadData	Wed Jun 03 15:13:07 EEST 2020
+addPayments	Wed Jun 03 15:13:07 EEST 2020
+seeProducts	Wed Jun 03 15:13:07 EEST 2020
+insertEmployeeToDB	Wed Jun 03 15:13:07 EEST 2020
+ENTER EmployeeServiceIO insertEmployee	Wed Jun 03 15:13:07 EEST 2020
+EXIT EmployeeServiceIO insertEmployee	Wed Jun 03 15:13:07 EEST 2020
+updateSalaryById	Wed Jun 03 15:13:07 EEST 2020
+deleteEmployeeById	Wed Jun 03 15:13:07 EEST 2020
+EXIT EmployeeServiceIO deleteRecord	Wed Jun 03 15:13:07 EEST 2020
+seeEmployees	Wed Jun 03 15:13:07 EEST 2020
+seeFiredEmployees	Wed Jun 03 15:13:07 EEST 2020
+
+
+
+		NEW SESSION	Wed Jun 03 15:14:52 EEST 2020
+ENTER ProductServiceIO ReadData	Wed Jun 03 15:14:52 EEST 2020
+EXIT ProductServiceIO ReadData	Wed Jun 03 15:14:52 EEST 2020
+addToMemory	Wed Jun 03 15:14:52 EEST 2020
+ENTER EmployeeServiceIO ReadData	Wed Jun 03 15:14:52 EEST 2020
+EXIT EmployeeServiceIO ReadData	Wed Jun 03 15:14:52 EEST 2020
+addEmployees	Wed Jun 03 15:14:52 EEST 2020
+ENTER EmployeeServiceIO ReadFired	Wed Jun 03 15:14:52 EEST 2020
+EXIT EmployeeServiceIO ReadFired	Wed Jun 03 15:14:52 EEST 2020
+addFiredEmployees	Wed Jun 03 15:14:52 EEST 2020
+ENTER PaymentServiceIO ReadData	Wed Jun 03 15:14:52 EEST 2020
+findProduct	Wed Jun 03 15:14:52 EEST 2020
+findProduct	Wed Jun 03 15:14:52 EEST 2020
+findProduct	Wed Jun 03 15:14:52 EEST 2020
+findProduct	Wed Jun 03 15:14:52 EEST 2020
+EXIT PaymentServiceIO ReadData	Wed Jun 03 15:14:52 EEST 2020
+addPayments	Wed Jun 03 15:14:52 EEST 2020
+seeProducts	Wed Jun 03 15:14:52 EEST 2020
+seeEmployees	Wed Jun 03 15:14:52 EEST 2020
+seeFiredEmployees	Wed Jun 03 15:14:52 EEST 2020
+seePayments	Wed Jun 03 15:14:52 EEST 2020
+
+
+
+		NEW SESSION	Wed Jun 03 15:25:05 EEST 2020
+ENTER ProductServiceIO ReadData	Wed Jun 03 15:25:05 EEST 2020
+EXIT ProductServiceIO ReadData	Wed Jun 03 15:25:05 EEST 2020
+addToMemory	Wed Jun 03 15:25:05 EEST 2020
+ENTER EmployeeServiceIO ReadData	Wed Jun 03 15:25:05 EEST 2020
+EXIT EmployeeServiceIO ReadData	Wed Jun 03 15:25:05 EEST 2020
+addEmployees	Wed Jun 03 15:25:05 EEST 2020
+ENTER EmployeeServiceIO ReadFired	Wed Jun 03 15:25:05 EEST 2020
+EXIT EmployeeServiceIO ReadFired	Wed Jun 03 15:25:05 EEST 2020
+addFiredEmployees	Wed Jun 03 15:25:05 EEST 2020
+ENTER PaymentServiceIO ReadData	Wed Jun 03 15:25:05 EEST 2020
+findProduct	Wed Jun 03 15:25:05 EEST 2020
+findProduct	Wed Jun 03 15:25:05 EEST 2020
+findProduct	Wed Jun 03 15:25:05 EEST 2020
+findProduct	Wed Jun 03 15:25:05 EEST 2020
+EXIT PaymentServiceIO ReadData	Wed Jun 03 15:25:05 EEST 2020
+addPayments	Wed Jun 03 15:25:05 EEST 2020
+seeProducts	Wed Jun 03 15:25:05 EEST 2020
+seeEmployees	Wed Jun 03 15:25:05 EEST 2020
+seeFiredEmployees	Wed Jun 03 15:25:05 EEST 2020
+seePayments	Wed Jun 03 15:25:05 EEST 2020
+
+
+
+		NEW SESSION	Wed Jun 03 15:33:46 EEST 2020
+ENTER ProductServiceIO ReadData	Wed Jun 03 15:33:46 EEST 2020
+EXIT ProductServiceIO ReadData	Wed Jun 03 15:33:46 EEST 2020
+addToMemory	Wed Jun 03 15:33:46 EEST 2020
+ENTER EmployeeServiceIO ReadData	Wed Jun 03 15:33:46 EEST 2020
+EXIT EmployeeServiceIO ReadData	Wed Jun 03 15:33:46 EEST 2020
+addEmployees	Wed Jun 03 15:33:46 EEST 2020
+ENTER EmployeeServiceIO ReadFired	Wed Jun 03 15:33:46 EEST 2020
+EXIT EmployeeServiceIO ReadFired	Wed Jun 03 15:33:46 EEST 2020
+addFiredEmployees	Wed Jun 03 15:33:46 EEST 2020
+ENTER PaymentServiceIO ReadData	Wed Jun 03 15:33:46 EEST 2020
+findProduct	Wed Jun 03 15:33:46 EEST 2020
+findProduct	Wed Jun 03 15:33:46 EEST 2020
+findProduct	Wed Jun 03 15:33:46 EEST 2020
+findProduct	Wed Jun 03 15:33:46 EEST 2020
+EXIT PaymentServiceIO ReadData	Wed Jun 03 15:33:46 EEST 2020
+addPayments	Wed Jun 03 15:33:46 EEST 2020
+seeProducts	Wed Jun 03 15:33:46 EEST 2020
+seeEmployees	Wed Jun 03 15:33:46 EEST 2020
+seeFiredEmployees	Wed Jun 03 15:33:46 EEST 2020
+seePayments	Wed Jun 03 15:33:46 EEST 2020
+
+
+
+		NEW SESSION	Wed Jun 03 15:35:13 EEST 2020
+ENTER ProductServiceIO ReadData	Wed Jun 03 15:35:13 EEST 2020
+EXIT ProductServiceIO ReadData	Wed Jun 03 15:35:13 EEST 2020
+addToMemory	Wed Jun 03 15:35:13 EEST 2020
+ENTER EmployeeServiceIO ReadData	Wed Jun 03 15:35:13 EEST 2020
+EXIT EmployeeServiceIO ReadData	Wed Jun 03 15:35:13 EEST 2020
+addEmployees	Wed Jun 03 15:35:13 EEST 2020
+ENTER EmployeeServiceIO ReadFired	Wed Jun 03 15:35:13 EEST 2020
+EXIT EmployeeServiceIO ReadFired	Wed Jun 03 15:35:13 EEST 2020
+addFiredEmployees	Wed Jun 03 15:35:13 EEST 2020
+ENTER PaymentServiceIO ReadData	Wed Jun 03 15:35:13 EEST 2020
+findProduct	Wed Jun 03 15:35:13 EEST 2020
+findProduct	Wed Jun 03 15:35:13 EEST 2020
+findProduct	Wed Jun 03 15:35:13 EEST 2020
+findProduct	Wed Jun 03 15:35:13 EEST 2020
+EXIT PaymentServiceIO ReadData	Wed Jun 03 15:35:13 EEST 2020
+addPayments	Wed Jun 03 15:35:13 EEST 2020
+seeProducts	Wed Jun 03 15:35:13 EEST 2020
+seeEmployees	Wed Jun 03 15:35:13 EEST 2020
+seeFiredEmployees	Wed Jun 03 15:35:13 EEST 2020
+seePayments	Wed Jun 03 15:35:13 EEST 2020
+
+
+
+		NEW SESSION	Wed Jun 03 15:36:14 EEST 2020
+ENTER ProductServiceIO ReadData	Wed Jun 03 15:36:14 EEST 2020
+EXIT ProductServiceIO ReadData	Wed Jun 03 15:36:14 EEST 2020
+addToMemory	Wed Jun 03 15:36:14 EEST 2020
+ENTER EmployeeServiceIO ReadData	Wed Jun 03 15:36:14 EEST 2020
+EXIT EmployeeServiceIO ReadData	Wed Jun 03 15:36:14 EEST 2020
+addEmployees	Wed Jun 03 15:36:14 EEST 2020
+ENTER EmployeeServiceIO ReadFired	Wed Jun 03 15:36:14 EEST 2020
+EXIT EmployeeServiceIO ReadFired	Wed Jun 03 15:36:14 EEST 2020
+addFiredEmployees	Wed Jun 03 15:36:14 EEST 2020
+ENTER PaymentServiceIO ReadData	Wed Jun 03 15:36:14 EEST 2020
+findProduct	Wed Jun 03 15:36:14 EEST 2020
+findProduct	Wed Jun 03 15:36:14 EEST 2020
+findProduct	Wed Jun 03 15:36:14 EEST 2020
+findProduct	Wed Jun 03 15:36:14 EEST 2020
+EXIT PaymentServiceIO ReadData	Wed Jun 03 15:36:14 EEST 2020
+addPayments	Wed Jun 03 15:36:14 EEST 2020
+seeProducts	Wed Jun 03 15:36:14 EEST 2020
+seeEmployees	Wed Jun 03 15:36:14 EEST 2020
+seeFiredEmployees	Wed Jun 03 15:36:14 EEST 2020
+seePayments	Wed Jun 03 15:36:14 EEST 2020
+
+
+
+		NEW SESSION	Wed Jun 03 15:38:01 EEST 2020
+ENTER ProductServiceIO ReadData	Wed Jun 03 15:38:01 EEST 2020
+EXIT ProductServiceIO ReadData	Wed Jun 03 15:38:01 EEST 2020
+addToMemory	Wed Jun 03 15:38:01 EEST 2020
+ENTER EmployeeServiceIO ReadData	Wed Jun 03 15:38:01 EEST 2020
+EXIT EmployeeServiceIO ReadData	Wed Jun 03 15:38:01 EEST 2020
+addEmployees	Wed Jun 03 15:38:01 EEST 2020
+ENTER EmployeeServiceIO ReadFired	Wed Jun 03 15:38:01 EEST 2020
+EXIT EmployeeServiceIO ReadFired	Wed Jun 03 15:38:01 EEST 2020
+addFiredEmployees	Wed Jun 03 15:38:01 EEST 2020
+ENTER PaymentServiceIO ReadData	Wed Jun 03 15:38:01 EEST 2020
+findProduct	Wed Jun 03 15:38:01 EEST 2020
+findProduct	Wed Jun 03 15:38:01 EEST 2020
+findProduct	Wed Jun 03 15:38:01 EEST 2020
+findProduct	Wed Jun 03 15:38:01 EEST 2020
+EXIT PaymentServiceIO ReadData	Wed Jun 03 15:38:01 EEST 2020
+addPayments	Wed Jun 03 15:38:01 EEST 2020
+seeProducts	Wed Jun 03 15:38:01 EEST 2020
+seeEmployees	Wed Jun 03 15:38:01 EEST 2020
+seeFiredEmployees	Wed Jun 03 15:38:01 EEST 2020
+seePayments	Wed Jun 03 15:38:01 EEST 2020
+
+
+
+		NEW SESSION	Wed Jun 03 15:38:19 EEST 2020
+ENTER ProductServiceIO ReadData	Wed Jun 03 15:38:19 EEST 2020
+EXIT ProductServiceIO ReadData	Wed Jun 03 15:38:19 EEST 2020
+addToMemory	Wed Jun 03 15:38:19 EEST 2020
+ENTER EmployeeServiceIO ReadData	Wed Jun 03 15:38:19 EEST 2020
+EXIT EmployeeServiceIO ReadData	Wed Jun 03 15:38:19 EEST 2020
+addEmployees	Wed Jun 03 15:38:19 EEST 2020
+ENTER EmployeeServiceIO ReadFired	Wed Jun 03 15:38:19 EEST 2020
+EXIT EmployeeServiceIO ReadFired	Wed Jun 03 15:38:19 EEST 2020
+addFiredEmployees	Wed Jun 03 15:38:19 EEST 2020
+ENTER PaymentServiceIO ReadData	Wed Jun 03 15:38:19 EEST 2020
+findProduct	Wed Jun 03 15:38:19 EEST 2020
+findProduct	Wed Jun 03 15:38:19 EEST 2020
+findProduct	Wed Jun 03 15:38:19 EEST 2020
+findProduct	Wed Jun 03 15:38:19 EEST 2020
+EXIT PaymentServiceIO ReadData	Wed Jun 03 15:38:19 EEST 2020
+addPayments	Wed Jun 03 15:38:19 EEST 2020
+seeProducts	Wed Jun 03 15:38:19 EEST 2020
+seeEmployees	Wed Jun 03 15:38:19 EEST 2020
+seeFiredEmployees	Wed Jun 03 15:38:19 EEST 2020
+seePayments	Wed Jun 03 15:38:19 EEST 2020
+
+
+
+		NEW SESSION	Wed Jun 03 15:38:37 EEST 2020
+ENTER ProductServiceIO ReadData	Wed Jun 03 15:38:37 EEST 2020
+EXIT ProductServiceIO ReadData	Wed Jun 03 15:38:37 EEST 2020
+addToMemory	Wed Jun 03 15:38:37 EEST 2020
+ENTER EmployeeServiceIO ReadData	Wed Jun 03 15:38:37 EEST 2020
+EXIT EmployeeServiceIO ReadData	Wed Jun 03 15:38:37 EEST 2020
+addEmployees	Wed Jun 03 15:38:37 EEST 2020
+ENTER EmployeeServiceIO ReadFired	Wed Jun 03 15:38:37 EEST 2020
+EXIT EmployeeServiceIO ReadFired	Wed Jun 03 15:38:37 EEST 2020
+addFiredEmployees	Wed Jun 03 15:38:37 EEST 2020
+ENTER PaymentServiceIO ReadData	Wed Jun 03 15:38:37 EEST 2020
+findProduct	Wed Jun 03 15:38:37 EEST 2020
+findProduct	Wed Jun 03 15:38:37 EEST 2020
+findProduct	Wed Jun 03 15:38:37 EEST 2020
+findProduct	Wed Jun 03 15:38:37 EEST 2020
+EXIT PaymentServiceIO ReadData	Wed Jun 03 15:38:37 EEST 2020
+addPayments	Wed Jun 03 15:38:37 EEST 2020
+seeProducts	Wed Jun 03 15:38:37 EEST 2020
+seeEmployees	Wed Jun 03 15:38:37 EEST 2020
+seeFiredEmployees	Wed Jun 03 15:38:37 EEST 2020
+seePayments	Wed Jun 03 15:38:37 EEST 2020
+
+
+
+		NEW SESSION	Wed Jun 03 15:38:49 EEST 2020
+ENTER ProductServiceIO ReadData	Wed Jun 03 15:38:49 EEST 2020
+EXIT ProductServiceIO ReadData	Wed Jun 03 15:38:49 EEST 2020
+addToMemory	Wed Jun 03 15:38:49 EEST 2020
+ENTER EmployeeServiceIO ReadData	Wed Jun 03 15:38:49 EEST 2020
+EXIT EmployeeServiceIO ReadData	Wed Jun 03 15:38:49 EEST 2020
+addEmployees	Wed Jun 03 15:38:49 EEST 2020
+ENTER EmployeeServiceIO ReadFired	Wed Jun 03 15:38:49 EEST 2020
+EXIT EmployeeServiceIO ReadFired	Wed Jun 03 15:38:49 EEST 2020
+addFiredEmployees	Wed Jun 03 15:38:49 EEST 2020
+ENTER PaymentServiceIO ReadData	Wed Jun 03 15:38:49 EEST 2020
+findProduct	Wed Jun 03 15:38:49 EEST 2020
+findProduct	Wed Jun 03 15:38:49 EEST 2020
+findProduct	Wed Jun 03 15:38:49 EEST 2020
+findProduct	Wed Jun 03 15:38:49 EEST 2020
+EXIT PaymentServiceIO ReadData	Wed Jun 03 15:38:49 EEST 2020
+addPayments	Wed Jun 03 15:38:49 EEST 2020
+seeProducts	Wed Jun 03 15:38:49 EEST 2020
+seeEmployees	Wed Jun 03 15:38:49 EEST 2020
+seeFiredEmployees	Wed Jun 03 15:38:49 EEST 2020
+seePayments	Wed Jun 03 15:38:49 EEST 2020
+
+
+
+		NEW SESSION	Wed Jun 03 15:40:46 EEST 2020
+ENTER ProductServiceIO ReadData	Wed Jun 03 15:40:46 EEST 2020
+EXIT ProductServiceIO ReadData	Wed Jun 03 15:40:46 EEST 2020
+addToMemory	Wed Jun 03 15:40:46 EEST 2020
+ENTER EmployeeServiceIO ReadData	Wed Jun 03 15:40:46 EEST 2020
+EXIT EmployeeServiceIO ReadData	Wed Jun 03 15:40:46 EEST 2020
+addEmployees	Wed Jun 03 15:40:46 EEST 2020
+ENTER EmployeeServiceIO ReadFired	Wed Jun 03 15:40:46 EEST 2020
+EXIT EmployeeServiceIO ReadFired	Wed Jun 03 15:40:46 EEST 2020
+addFiredEmployees	Wed Jun 03 15:40:46 EEST 2020
+ENTER PaymentServiceIO ReadData	Wed Jun 03 15:40:46 EEST 2020
+findProduct	Wed Jun 03 15:40:46 EEST 2020
+findProduct	Wed Jun 03 15:40:46 EEST 2020
+findProduct	Wed Jun 03 15:40:46 EEST 2020
+findProduct	Wed Jun 03 15:40:46 EEST 2020
+EXIT PaymentServiceIO ReadData	Wed Jun 03 15:40:46 EEST 2020
+addPayments	Wed Jun 03 15:40:46 EEST 2020
+seeProducts	Wed Jun 03 15:40:46 EEST 2020
+seeEmployees	Wed Jun 03 15:40:46 EEST 2020
+seeFiredEmployees	Wed Jun 03 15:40:46 EEST 2020
+seePayments	Wed Jun 03 15:40:46 EEST 2020
+
+
+
+		NEW SESSION	Wed Jun 03 15:44:33 EEST 2020
+ENTER ProductServiceIO ReadData	Wed Jun 03 15:44:33 EEST 2020
+EXIT ProductServiceIO ReadData	Wed Jun 03 15:44:33 EEST 2020
+addToMemory	Wed Jun 03 15:44:33 EEST 2020
+ENTER EmployeeServiceIO ReadData	Wed Jun 03 15:44:33 EEST 2020
+EXIT EmployeeServiceIO ReadData	Wed Jun 03 15:44:33 EEST 2020
+addEmployees	Wed Jun 03 15:44:33 EEST 2020
+ENTER EmployeeServiceIO ReadFired	Wed Jun 03 15:44:33 EEST 2020
+EXIT EmployeeServiceIO ReadFired	Wed Jun 03 15:44:33 EEST 2020
+addFiredEmployees	Wed Jun 03 15:44:33 EEST 2020
+ENTER PaymentServiceIO ReadData	Wed Jun 03 15:44:33 EEST 2020
+findProduct	Wed Jun 03 15:44:33 EEST 2020
+findProduct	Wed Jun 03 15:44:33 EEST 2020
+findProduct	Wed Jun 03 15:44:33 EEST 2020
+findProduct	Wed Jun 03 15:44:33 EEST 2020
+EXIT PaymentServiceIO ReadData	Wed Jun 03 15:44:33 EEST 2020
+addPayments	Wed Jun 03 15:44:33 EEST 2020
+seeProducts	Wed Jun 03 15:44:33 EEST 2020
+seeEmployees	Wed Jun 03 15:44:33 EEST 2020
+seeFiredEmployees	Wed Jun 03 15:44:33 EEST 2020
+seePayments	Wed Jun 03 15:44:33 EEST 2020
+
+
+
+		NEW SESSION	Wed Jun 03 15:45:43 EEST 2020
+ENTER ProductServiceIO ReadData	Wed Jun 03 15:45:43 EEST 2020
+EXIT ProductServiceIO ReadData	Wed Jun 03 15:45:43 EEST 2020
+addToMemory	Wed Jun 03 15:45:43 EEST 2020
+ENTER EmployeeServiceIO ReadData	Wed Jun 03 15:45:43 EEST 2020
+EXIT EmployeeServiceIO ReadData	Wed Jun 03 15:45:43 EEST 2020
+addEmployees	Wed Jun 03 15:45:43 EEST 2020
+ENTER EmployeeServiceIO ReadFired	Wed Jun 03 15:45:43 EEST 2020
+EXIT EmployeeServiceIO ReadFired	Wed Jun 03 15:45:43 EEST 2020
+addFiredEmployees	Wed Jun 03 15:45:43 EEST 2020
+ENTER PaymentServiceIO ReadData	Wed Jun 03 15:45:43 EEST 2020
+findProduct	Wed Jun 03 15:45:43 EEST 2020
+findProduct	Wed Jun 03 15:45:43 EEST 2020
+findProduct	Wed Jun 03 15:45:43 EEST 2020
+findProduct	Wed Jun 03 15:45:43 EEST 2020
+EXIT PaymentServiceIO ReadData	Wed Jun 03 15:45:43 EEST 2020
+addPayments	Wed Jun 03 15:45:43 EEST 2020
+seeProducts	Wed Jun 03 15:45:43 EEST 2020
+seeEmployees	Wed Jun 03 15:45:43 EEST 2020
+seeFiredEmployees	Wed Jun 03 15:45:43 EEST 2020
+seePayments	Wed Jun 03 15:45:43 EEST 2020
+
+
+
+		NEW SESSION	Wed Jun 03 15:47:30 EEST 2020
+ENTER ProductServiceIO ReadData	Wed Jun 03 15:47:30 EEST 2020
+EXIT ProductServiceIO ReadData	Wed Jun 03 15:47:30 EEST 2020
+addToMemory	Wed Jun 03 15:47:30 EEST 2020
+ENTER EmployeeServiceIO ReadData	Wed Jun 03 15:47:30 EEST 2020
+EXIT EmployeeServiceIO ReadData	Wed Jun 03 15:47:30 EEST 2020
+addEmployees	Wed Jun 03 15:47:30 EEST 2020
+ENTER EmployeeServiceIO ReadFired	Wed Jun 03 15:47:30 EEST 2020
+EXIT EmployeeServiceIO ReadFired	Wed Jun 03 15:47:30 EEST 2020
+addFiredEmployees	Wed Jun 03 15:47:30 EEST 2020
+ENTER PaymentServiceIO ReadData	Wed Jun 03 15:47:30 EEST 2020
+findProduct	Wed Jun 03 15:47:30 EEST 2020
+findProduct	Wed Jun 03 15:47:30 EEST 2020
+findProduct	Wed Jun 03 15:47:30 EEST 2020
+findProduct	Wed Jun 03 15:47:30 EEST 2020
+EXIT PaymentServiceIO ReadData	Wed Jun 03 15:47:30 EEST 2020
+addPayments	Wed Jun 03 15:47:30 EEST 2020
+seeProducts	Wed Jun 03 15:47:30 EEST 2020
+seeEmployees	Wed Jun 03 15:47:30 EEST 2020
+seeFiredEmployees	Wed Jun 03 15:47:30 EEST 2020
+seePayments	Wed Jun 03 15:47:30 EEST 2020
+
+
+
+		NEW SESSION	Wed Jun 03 15:47:57 EEST 2020
+ENTER ProductServiceIO ReadData	Wed Jun 03 15:47:57 EEST 2020
+EXIT ProductServiceIO ReadData	Wed Jun 03 15:47:57 EEST 2020
+addToMemory	Wed Jun 03 15:47:57 EEST 2020
+ENTER EmployeeServiceIO ReadData	Wed Jun 03 15:47:57 EEST 2020
+EXIT EmployeeServiceIO ReadData	Wed Jun 03 15:47:57 EEST 2020
+addEmployees	Wed Jun 03 15:47:57 EEST 2020
+ENTER EmployeeServiceIO ReadFired	Wed Jun 03 15:47:57 EEST 2020
+EXIT EmployeeServiceIO ReadFired	Wed Jun 03 15:47:57 EEST 2020
+addFiredEmployees	Wed Jun 03 15:47:57 EEST 2020
+ENTER PaymentServiceIO ReadData	Wed Jun 03 15:47:57 EEST 2020
+findProduct	Wed Jun 03 15:47:58 EEST 2020
+findProduct	Wed Jun 03 15:47:58 EEST 2020
+findProduct	Wed Jun 03 15:47:58 EEST 2020
+findProduct	Wed Jun 03 15:47:58 EEST 2020
+EXIT PaymentServiceIO ReadData	Wed Jun 03 15:47:58 EEST 2020
+addPayments	Wed Jun 03 15:47:58 EEST 2020
+seeProducts	Wed Jun 03 15:47:58 EEST 2020
+seeEmployees	Wed Jun 03 15:47:58 EEST 2020
+seeFiredEmployees	Wed Jun 03 15:47:58 EEST 2020
+seePayments	Wed Jun 03 15:47:58 EEST 2020
+
+
+
+		NEW SESSION	Wed Jun 03 15:48:44 EEST 2020
+ENTER ProductServiceIO ReadData	Wed Jun 03 15:48:44 EEST 2020
+EXIT ProductServiceIO ReadData	Wed Jun 03 15:48:44 EEST 2020
+addToMemory	Wed Jun 03 15:48:44 EEST 2020
+ENTER EmployeeServiceIO ReadData	Wed Jun 03 15:48:44 EEST 2020
+EXIT EmployeeServiceIO ReadData	Wed Jun 03 15:48:44 EEST 2020
+addEmployees	Wed Jun 03 15:48:44 EEST 2020
+ENTER EmployeeServiceIO ReadFired	Wed Jun 03 15:48:44 EEST 2020
+EXIT EmployeeServiceIO ReadFired	Wed Jun 03 15:48:44 EEST 2020
+addFiredEmployees	Wed Jun 03 15:48:44 EEST 2020
+ENTER PaymentServiceIO ReadData	Wed Jun 03 15:48:44 EEST 2020
+findProduct	Wed Jun 03 15:48:44 EEST 2020
+findProduct	Wed Jun 03 15:48:44 EEST 2020
+findProduct	Wed Jun 03 15:48:44 EEST 2020
+findProduct	Wed Jun 03 15:48:44 EEST 2020
+EXIT PaymentServiceIO ReadData	Wed Jun 03 15:48:44 EEST 2020
+addPayments	Wed Jun 03 15:48:44 EEST 2020
+seeProducts	Wed Jun 03 15:48:44 EEST 2020
+seeEmployees	Wed Jun 03 15:48:44 EEST 2020
+seeFiredEmployees	Wed Jun 03 15:48:44 EEST 2020
+seePayments	Wed Jun 03 15:48:44 EEST 2020
+
+
+
+		NEW SESSION	Wed Jun 03 15:49:28 EEST 2020
+ENTER ProductServiceIO ReadData	Wed Jun 03 15:49:28 EEST 2020
+EXIT ProductServiceIO ReadData	Wed Jun 03 15:49:28 EEST 2020
+addToMemory	Wed Jun 03 15:49:28 EEST 2020
+ENTER EmployeeServiceIO ReadData	Wed Jun 03 15:49:28 EEST 2020
+EXIT EmployeeServiceIO ReadData	Wed Jun 03 15:49:28 EEST 2020
+addEmployees	Wed Jun 03 15:49:28 EEST 2020
+ENTER EmployeeServiceIO ReadFired	Wed Jun 03 15:49:28 EEST 2020
+EXIT EmployeeServiceIO ReadFired	Wed Jun 03 15:49:28 EEST 2020
+addFiredEmployees	Wed Jun 03 15:49:28 EEST 2020
+ENTER PaymentServiceIO ReadData	Wed Jun 03 15:49:28 EEST 2020
+findProduct	Wed Jun 03 15:49:28 EEST 2020
+findProduct	Wed Jun 03 15:49:28 EEST 2020
+findProduct	Wed Jun 03 15:49:28 EEST 2020
+findProduct	Wed Jun 03 15:49:28 EEST 2020
+EXIT PaymentServiceIO ReadData	Wed Jun 03 15:49:28 EEST 2020
+addPayments	Wed Jun 03 15:49:28 EEST 2020
+seeProducts	Wed Jun 03 15:49:28 EEST 2020
+seeEmployees	Wed Jun 03 15:49:28 EEST 2020
+seeFiredEmployees	Wed Jun 03 15:49:28 EEST 2020
+seePayments	Wed Jun 03 15:49:28 EEST 2020
+
+
+
+		NEW SESSION	Wed Jun 03 15:49:44 EEST 2020
+ENTER ProductServiceIO ReadData	Wed Jun 03 15:49:44 EEST 2020
+EXIT ProductServiceIO ReadData	Wed Jun 03 15:49:44 EEST 2020
+addToMemory	Wed Jun 03 15:49:44 EEST 2020
+ENTER EmployeeServiceIO ReadData	Wed Jun 03 15:49:44 EEST 2020
+EXIT EmployeeServiceIO ReadData	Wed Jun 03 15:49:44 EEST 2020
+addEmployees	Wed Jun 03 15:49:44 EEST 2020
+ENTER EmployeeServiceIO ReadFired	Wed Jun 03 15:49:44 EEST 2020
+EXIT EmployeeServiceIO ReadFired	Wed Jun 03 15:49:44 EEST 2020
+addFiredEmployees	Wed Jun 03 15:49:44 EEST 2020
+ENTER PaymentServiceIO ReadData	Wed Jun 03 15:49:44 EEST 2020
+findProduct	Wed Jun 03 15:49:44 EEST 2020
+findProduct	Wed Jun 03 15:49:44 EEST 2020
+findProduct	Wed Jun 03 15:49:44 EEST 2020
+findProduct	Wed Jun 03 15:49:44 EEST 2020
+EXIT PaymentServiceIO ReadData	Wed Jun 03 15:49:44 EEST 2020
+addPayments	Wed Jun 03 15:49:44 EEST 2020
+seeProducts	Wed Jun 03 15:49:44 EEST 2020
+seeEmployees	Wed Jun 03 15:49:45 EEST 2020
+seeFiredEmployees	Wed Jun 03 15:49:45 EEST 2020
+seePayments	Wed Jun 03 15:49:45 EEST 2020
+
+
+
+		NEW SESSION	Wed Jun 03 15:53:22 EEST 2020
+ENTER ProductServiceIO ReadData	Wed Jun 03 15:53:22 EEST 2020
+EXIT ProductServiceIO ReadData	Wed Jun 03 15:53:22 EEST 2020
+addToMemory	Wed Jun 03 15:53:22 EEST 2020
+ENTER EmployeeServiceIO ReadData	Wed Jun 03 15:53:22 EEST 2020
+EXIT EmployeeServiceIO ReadData	Wed Jun 03 15:53:22 EEST 2020
+addEmployees	Wed Jun 03 15:53:22 EEST 2020
+ENTER EmployeeServiceIO ReadFired	Wed Jun 03 15:53:22 EEST 2020
+EXIT EmployeeServiceIO ReadFired	Wed Jun 03 15:53:22 EEST 2020
+addFiredEmployees	Wed Jun 03 15:53:22 EEST 2020
+ENTER PaymentServiceIO ReadData	Wed Jun 03 15:53:22 EEST 2020
+findProduct	Wed Jun 03 15:53:22 EEST 2020
+findProduct	Wed Jun 03 15:53:22 EEST 2020
+findProduct	Wed Jun 03 15:53:22 EEST 2020
+findProduct	Wed Jun 03 15:53:22 EEST 2020
+EXIT PaymentServiceIO ReadData	Wed Jun 03 15:53:22 EEST 2020
+addPayments	Wed Jun 03 15:53:22 EEST 2020
+seeProducts	Wed Jun 03 15:53:22 EEST 2020
+seeEmployees	Wed Jun 03 15:53:22 EEST 2020
+seeFiredEmployees	Wed Jun 03 15:53:22 EEST 2020
+seePayments	Wed Jun 03 15:53:22 EEST 2020
+
+
+
+		NEW SESSION	Wed Jun 03 15:53:43 EEST 2020
+ENTER ProductServiceIO ReadData	Wed Jun 03 15:53:43 EEST 2020
+EXIT ProductServiceIO ReadData	Wed Jun 03 15:53:43 EEST 2020
+addToMemory	Wed Jun 03 15:53:43 EEST 2020
+ENTER EmployeeServiceIO ReadData	Wed Jun 03 15:53:43 EEST 2020
+EXIT EmployeeServiceIO ReadData	Wed Jun 03 15:53:43 EEST 2020
+addEmployees	Wed Jun 03 15:53:43 EEST 2020
+ENTER EmployeeServiceIO ReadFired	Wed Jun 03 15:53:43 EEST 2020
+EXIT EmployeeServiceIO ReadFired	Wed Jun 03 15:53:43 EEST 2020
+addFiredEmployees	Wed Jun 03 15:53:43 EEST 2020
+ENTER PaymentServiceIO ReadData	Wed Jun 03 15:53:43 EEST 2020
+findProduct	Wed Jun 03 15:53:43 EEST 2020
+findProduct	Wed Jun 03 15:53:43 EEST 2020
+findProduct	Wed Jun 03 15:53:43 EEST 2020
+findProduct	Wed Jun 03 15:53:43 EEST 2020
+EXIT PaymentServiceIO ReadData	Wed Jun 03 15:53:43 EEST 2020
+addPayments	Wed Jun 03 15:53:43 EEST 2020
+seeProducts	Wed Jun 03 15:53:43 EEST 2020
+seeEmployees	Wed Jun 03 15:53:43 EEST 2020
+seeFiredEmployees	Wed Jun 03 15:53:43 EEST 2020
+seePayments	Wed Jun 03 15:53:43 EEST 2020
+
+
+
+		NEW SESSION	Wed Jun 03 15:54:09 EEST 2020
+ENTER ProductServiceIO ReadData	Wed Jun 03 15:54:09 EEST 2020
+EXIT ProductServiceIO ReadData	Wed Jun 03 15:54:09 EEST 2020
+addToMemory	Wed Jun 03 15:54:09 EEST 2020
+ENTER EmployeeServiceIO ReadData	Wed Jun 03 15:54:09 EEST 2020
+EXIT EmployeeServiceIO ReadData	Wed Jun 03 15:54:09 EEST 2020
+addEmployees	Wed Jun 03 15:54:09 EEST 2020
+ENTER EmployeeServiceIO ReadFired	Wed Jun 03 15:54:09 EEST 2020
+EXIT EmployeeServiceIO ReadFired	Wed Jun 03 15:54:09 EEST 2020
+addFiredEmployees	Wed Jun 03 15:54:09 EEST 2020
+ENTER PaymentServiceIO ReadData	Wed Jun 03 15:54:09 EEST 2020
+findProduct	Wed Jun 03 15:54:09 EEST 2020
+findProduct	Wed Jun 03 15:54:09 EEST 2020
+findProduct	Wed Jun 03 15:54:09 EEST 2020
+findProduct	Wed Jun 03 15:54:09 EEST 2020
+EXIT PaymentServiceIO ReadData	Wed Jun 03 15:54:09 EEST 2020
+addPayments	Wed Jun 03 15:54:09 EEST 2020
+seeProducts	Wed Jun 03 15:54:09 EEST 2020
+seeEmployees	Wed Jun 03 15:54:09 EEST 2020
+seeFiredEmployees	Wed Jun 03 15:54:09 EEST 2020
+seePayments	Wed Jun 03 15:54:09 EEST 2020
+
+
+
+		NEW SESSION	Wed Jun 03 15:58:44 EEST 2020
+ENTER ProductServiceIO ReadData	Wed Jun 03 15:58:44 EEST 2020
+EXIT ProductServiceIO ReadData	Wed Jun 03 15:58:44 EEST 2020
+addToMemory	Wed Jun 03 15:58:44 EEST 2020
+ENTER EmployeeServiceIO ReadData	Wed Jun 03 15:58:44 EEST 2020
+EXIT EmployeeServiceIO ReadData	Wed Jun 03 15:58:44 EEST 2020
+addEmployees	Wed Jun 03 15:58:44 EEST 2020
+ENTER EmployeeServiceIO ReadFired	Wed Jun 03 15:58:44 EEST 2020
+EXIT EmployeeServiceIO ReadFired	Wed Jun 03 15:58:44 EEST 2020
+addFiredEmployees	Wed Jun 03 15:58:44 EEST 2020
+ENTER PaymentServiceIO ReadData	Wed Jun 03 15:58:44 EEST 2020
+findProduct	Wed Jun 03 15:58:44 EEST 2020
+findProduct	Wed Jun 03 15:58:44 EEST 2020
+findProduct	Wed Jun 03 15:58:44 EEST 2020
+findProduct	Wed Jun 03 15:58:44 EEST 2020
+EXIT PaymentServiceIO ReadData	Wed Jun 03 15:58:44 EEST 2020
+addPayments	Wed Jun 03 15:58:44 EEST 2020
+seeProducts	Wed Jun 03 15:58:44 EEST 2020
+seeEmployees	Wed Jun 03 15:58:44 EEST 2020
+seeFiredEmployees	Wed Jun 03 15:58:44 EEST 2020
+seePayments	Wed Jun 03 15:58:44 EEST 2020
+
+
+
+		NEW SESSION	Wed Jun 03 15:59:15 EEST 2020
+ENTER ProductServiceIO ReadData	Wed Jun 03 15:59:15 EEST 2020
+EXIT ProductServiceIO ReadData	Wed Jun 03 15:59:15 EEST 2020
+addToMemory	Wed Jun 03 15:59:15 EEST 2020
+ENTER EmployeeServiceIO ReadData	Wed Jun 03 15:59:15 EEST 2020
+EXIT EmployeeServiceIO ReadData	Wed Jun 03 15:59:15 EEST 2020
+addEmployees	Wed Jun 03 15:59:15 EEST 2020
+ENTER EmployeeServiceIO ReadFired	Wed Jun 03 15:59:15 EEST 2020
+EXIT EmployeeServiceIO ReadFired	Wed Jun 03 15:59:15 EEST 2020
+addFiredEmployees	Wed Jun 03 15:59:15 EEST 2020
+ENTER PaymentServiceIO ReadData	Wed Jun 03 15:59:15 EEST 2020
+findProduct	Wed Jun 03 15:59:15 EEST 2020
+findProduct	Wed Jun 03 15:59:15 EEST 2020
+findProduct	Wed Jun 03 15:59:15 EEST 2020
+findProduct	Wed Jun 03 15:59:15 EEST 2020
+EXIT PaymentServiceIO ReadData	Wed Jun 03 15:59:15 EEST 2020
+addPayments	Wed Jun 03 15:59:15 EEST 2020
+seeProducts	Wed Jun 03 15:59:15 EEST 2020
+seeEmployees	Wed Jun 03 15:59:15 EEST 2020
+seeFiredEmployees	Wed Jun 03 15:59:15 EEST 2020
+seePayments	Wed Jun 03 15:59:15 EEST 2020
+
+
+
+		NEW SESSION	Wed Jun 03 15:59:47 EEST 2020
+ENTER ProductServiceIO ReadData	Wed Jun 03 15:59:47 EEST 2020
+EXIT ProductServiceIO ReadData	Wed Jun 03 15:59:47 EEST 2020
+addToMemory	Wed Jun 03 15:59:47 EEST 2020
+ENTER EmployeeServiceIO ReadData	Wed Jun 03 15:59:47 EEST 2020
+EXIT EmployeeServiceIO ReadData	Wed Jun 03 15:59:47 EEST 2020
+addEmployees	Wed Jun 03 15:59:47 EEST 2020
+ENTER EmployeeServiceIO ReadFired	Wed Jun 03 15:59:47 EEST 2020
+EXIT EmployeeServiceIO ReadFired	Wed Jun 03 15:59:47 EEST 2020
+addFiredEmployees	Wed Jun 03 15:59:47 EEST 2020
+ENTER PaymentServiceIO ReadData	Wed Jun 03 15:59:47 EEST 2020
+findProduct	Wed Jun 03 15:59:47 EEST 2020
+findProduct	Wed Jun 03 15:59:47 EEST 2020
+findProduct	Wed Jun 03 15:59:47 EEST 2020
+findProduct	Wed Jun 03 15:59:47 EEST 2020
+EXIT PaymentServiceIO ReadData	Wed Jun 03 15:59:47 EEST 2020
+addPayments	Wed Jun 03 15:59:47 EEST 2020
+seeProducts	Wed Jun 03 15:59:47 EEST 2020
+seeEmployees	Wed Jun 03 15:59:47 EEST 2020
+seeFiredEmployees	Wed Jun 03 15:59:47 EEST 2020
+seePayments	Wed Jun 03 15:59:47 EEST 2020
+
+
+
+		NEW SESSION	Wed Jun 03 16:01:13 EEST 2020
+ENTER ProductServiceIO ReadData	Wed Jun 03 16:01:13 EEST 2020
+EXIT ProductServiceIO ReadData	Wed Jun 03 16:01:13 EEST 2020
+addToMemory	Wed Jun 03 16:01:13 EEST 2020
+ENTER EmployeeServiceIO ReadData	Wed Jun 03 16:01:13 EEST 2020
+EXIT EmployeeServiceIO ReadData	Wed Jun 03 16:01:13 EEST 2020
+addEmployees	Wed Jun 03 16:01:13 EEST 2020
+ENTER EmployeeServiceIO ReadFired	Wed Jun 03 16:01:13 EEST 2020
+EXIT EmployeeServiceIO ReadFired	Wed Jun 03 16:01:13 EEST 2020
+addFiredEmployees	Wed Jun 03 16:01:13 EEST 2020
+ENTER PaymentServiceIO ReadData	Wed Jun 03 16:01:13 EEST 2020
+findProduct	Wed Jun 03 16:01:13 EEST 2020
+findProduct	Wed Jun 03 16:01:13 EEST 2020
+findProduct	Wed Jun 03 16:01:13 EEST 2020
+findProduct	Wed Jun 03 16:01:13 EEST 2020
+EXIT PaymentServiceIO ReadData	Wed Jun 03 16:01:13 EEST 2020
+addPayments	Wed Jun 03 16:01:13 EEST 2020
+seeProducts	Wed Jun 03 16:01:13 EEST 2020
+seeEmployees	Wed Jun 03 16:01:13 EEST 2020
+seeFiredEmployees	Wed Jun 03 16:01:13 EEST 2020
+seePayments	Wed Jun 03 16:01:13 EEST 2020
+
+
+
+		NEW SESSION	Wed Jun 03 16:22:03 EEST 2020
+ENTER ProductServiceIO ReadData	Wed Jun 03 16:22:03 EEST 2020
+EXIT ProductServiceIO ReadData	Wed Jun 03 16:22:03 EEST 2020
+addToMemory	Wed Jun 03 16:22:03 EEST 2020
+ENTER EmployeeServiceIO ReadData	Wed Jun 03 16:22:03 EEST 2020
+EXIT EmployeeServiceIO ReadData	Wed Jun 03 16:22:03 EEST 2020
+addEmployees	Wed Jun 03 16:22:03 EEST 2020
+ENTER EmployeeServiceIO ReadFired	Wed Jun 03 16:22:03 EEST 2020
+EXIT EmployeeServiceIO ReadFired	Wed Jun 03 16:22:03 EEST 2020
+addFiredEmployees	Wed Jun 03 16:22:03 EEST 2020
+ENTER PaymentServiceIO ReadData	Wed Jun 03 16:22:03 EEST 2020
+findProduct	Wed Jun 03 16:22:03 EEST 2020
+findProduct	Wed Jun 03 16:22:03 EEST 2020
+findProduct	Wed Jun 03 16:22:03 EEST 2020
+findProduct	Wed Jun 03 16:22:03 EEST 2020
+EXIT PaymentServiceIO ReadData	Wed Jun 03 16:22:03 EEST 2020
+addPayments	Wed Jun 03 16:22:03 EEST 2020
+seeProducts	Wed Jun 03 16:22:03 EEST 2020
+seeEmployees	Wed Jun 03 16:22:03 EEST 2020
+seeFiredEmployees	Wed Jun 03 16:22:03 EEST 2020
+seePayments	Wed Jun 03 16:22:03 EEST 2020
+
+
+
+		NEW SESSION	Wed Jun 03 16:22:32 EEST 2020
+ENTER ProductServiceIO ReadData	Wed Jun 03 16:22:32 EEST 2020
+EXIT ProductServiceIO ReadData	Wed Jun 03 16:22:32 EEST 2020
+addToMemory	Wed Jun 03 16:22:32 EEST 2020
+ENTER EmployeeServiceIO ReadData	Wed Jun 03 16:22:32 EEST 2020
+EXIT EmployeeServiceIO ReadData	Wed Jun 03 16:22:32 EEST 2020
+addEmployees	Wed Jun 03 16:22:32 EEST 2020
+ENTER EmployeeServiceIO ReadFired	Wed Jun 03 16:22:32 EEST 2020
+EXIT EmployeeServiceIO ReadFired	Wed Jun 03 16:22:32 EEST 2020
+addFiredEmployees	Wed Jun 03 16:22:32 EEST 2020
+ENTER PaymentServiceIO ReadData	Wed Jun 03 16:22:32 EEST 2020
+findProduct	Wed Jun 03 16:22:32 EEST 2020
+findProduct	Wed Jun 03 16:22:32 EEST 2020
+findProduct	Wed Jun 03 16:22:32 EEST 2020
+findProduct	Wed Jun 03 16:22:32 EEST 2020
+EXIT PaymentServiceIO ReadData	Wed Jun 03 16:22:32 EEST 2020
+addPayments	Wed Jun 03 16:22:32 EEST 2020
+seeProducts	Wed Jun 03 16:22:32 EEST 2020
+seeEmployees	Wed Jun 03 16:22:32 EEST 2020
+seeFiredEmployees	Wed Jun 03 16:22:32 EEST 2020
+seePayments	Wed Jun 03 16:22:32 EEST 2020
+
+
+
+		NEW SESSION	Wed Jun 03 16:33:39 EEST 2020
+ENTER ProductServiceIO ReadData	Wed Jun 03 16:33:39 EEST 2020
+EXIT ProductServiceIO ReadData	Wed Jun 03 16:33:39 EEST 2020
+addToMemory	Wed Jun 03 16:33:39 EEST 2020
+ENTER EmployeeServiceIO ReadData	Wed Jun 03 16:33:39 EEST 2020
+EXIT EmployeeServiceIO ReadData	Wed Jun 03 16:33:39 EEST 2020
+addEmployees	Wed Jun 03 16:33:39 EEST 2020
+ENTER EmployeeServiceIO ReadFired	Wed Jun 03 16:33:39 EEST 2020
+EXIT EmployeeServiceIO ReadFired	Wed Jun 03 16:33:39 EEST 2020
+addFiredEmployees	Wed Jun 03 16:33:39 EEST 2020
+ENTER PaymentServiceIO ReadData	Wed Jun 03 16:33:39 EEST 2020
+findProduct	Wed Jun 03 16:33:39 EEST 2020
+findProduct	Wed Jun 03 16:33:39 EEST 2020
+findProduct	Wed Jun 03 16:33:39 EEST 2020
+findProduct	Wed Jun 03 16:33:39 EEST 2020
+EXIT PaymentServiceIO ReadData	Wed Jun 03 16:33:39 EEST 2020
+addPayments	Wed Jun 03 16:33:39 EEST 2020
+seeProducts	Wed Jun 03 16:33:39 EEST 2020
+seeEmployees	Wed Jun 03 16:33:39 EEST 2020
+seeFiredEmployees	Wed Jun 03 16:33:39 EEST 2020
+seePayments	Wed Jun 03 16:33:39 EEST 2020
+
+
+
+		NEW SESSION	Wed Jun 03 16:34:27 EEST 2020
+ENTER ProductServiceIO ReadData	Wed Jun 03 16:34:27 EEST 2020
+EXIT ProductServiceIO ReadData	Wed Jun 03 16:34:27 EEST 2020
+addToMemory	Wed Jun 03 16:34:27 EEST 2020
+ENTER EmployeeServiceIO ReadData	Wed Jun 03 16:34:27 EEST 2020
+EXIT EmployeeServiceIO ReadData	Wed Jun 03 16:34:27 EEST 2020
+addEmployees	Wed Jun 03 16:34:27 EEST 2020
+ENTER EmployeeServiceIO ReadFired	Wed Jun 03 16:34:27 EEST 2020
+EXIT EmployeeServiceIO ReadFired	Wed Jun 03 16:34:27 EEST 2020
+addFiredEmployees	Wed Jun 03 16:34:27 EEST 2020
+ENTER PaymentServiceIO ReadData	Wed Jun 03 16:34:27 EEST 2020
+findProduct	Wed Jun 03 16:34:27 EEST 2020
+findProduct	Wed Jun 03 16:34:27 EEST 2020
+findProduct	Wed Jun 03 16:34:27 EEST 2020
+findProduct	Wed Jun 03 16:34:27 EEST 2020
+EXIT PaymentServiceIO ReadData	Wed Jun 03 16:34:27 EEST 2020
+addPayments	Wed Jun 03 16:34:27 EEST 2020
+seeProducts	Wed Jun 03 16:34:27 EEST 2020
+seeEmployees	Wed Jun 03 16:34:27 EEST 2020
+seeFiredEmployees	Wed Jun 03 16:34:27 EEST 2020
+seePayments	Wed Jun 03 16:34:27 EEST 2020
+
+
+
+		NEW SESSION	Wed Jun 03 16:35:34 EEST 2020
+ENTER ProductServiceIO ReadData	Wed Jun 03 16:35:34 EEST 2020
+EXIT ProductServiceIO ReadData	Wed Jun 03 16:35:34 EEST 2020
+addToMemory	Wed Jun 03 16:35:34 EEST 2020
+ENTER EmployeeServiceIO ReadData	Wed Jun 03 16:35:34 EEST 2020
+EXIT EmployeeServiceIO ReadData	Wed Jun 03 16:35:34 EEST 2020
+addEmployees	Wed Jun 03 16:35:34 EEST 2020
+ENTER EmployeeServiceIO ReadFired	Wed Jun 03 16:35:34 EEST 2020
+EXIT EmployeeServiceIO ReadFired	Wed Jun 03 16:35:34 EEST 2020
+addFiredEmployees	Wed Jun 03 16:35:34 EEST 2020
+ENTER PaymentServiceIO ReadData	Wed Jun 03 16:35:34 EEST 2020
+findProduct	Wed Jun 03 16:35:34 EEST 2020
+findProduct	Wed Jun 03 16:35:34 EEST 2020
+findProduct	Wed Jun 03 16:35:34 EEST 2020
+findProduct	Wed Jun 03 16:35:34 EEST 2020
+EXIT PaymentServiceIO ReadData	Wed Jun 03 16:35:34 EEST 2020
+addPayments	Wed Jun 03 16:35:34 EEST 2020
+seeProducts	Wed Jun 03 16:35:34 EEST 2020
+seeEmployees	Wed Jun 03 16:35:34 EEST 2020
+seeFiredEmployees	Wed Jun 03 16:35:34 EEST 2020
+seePayments	Wed Jun 03 16:35:34 EEST 2020
+
+
+
+		NEW SESSION	Wed Jun 03 16:36:14 EEST 2020
+ENTER ProductServiceIO ReadData	Wed Jun 03 16:36:14 EEST 2020
+EXIT ProductServiceIO ReadData	Wed Jun 03 16:36:14 EEST 2020
+addToMemory	Wed Jun 03 16:36:14 EEST 2020
+ENTER EmployeeServiceIO ReadData	Wed Jun 03 16:36:14 EEST 2020
+EXIT EmployeeServiceIO ReadData	Wed Jun 03 16:36:14 EEST 2020
+addEmployees	Wed Jun 03 16:36:14 EEST 2020
+ENTER EmployeeServiceIO ReadFired	Wed Jun 03 16:36:14 EEST 2020
+EXIT EmployeeServiceIO ReadFired	Wed Jun 03 16:36:14 EEST 2020
+addFiredEmployees	Wed Jun 03 16:36:14 EEST 2020
+ENTER PaymentServiceIO ReadData	Wed Jun 03 16:36:14 EEST 2020
+findProduct	Wed Jun 03 16:36:14 EEST 2020
+findProduct	Wed Jun 03 16:36:14 EEST 2020
+findProduct	Wed Jun 03 16:36:14 EEST 2020
+findProduct	Wed Jun 03 16:36:14 EEST 2020
+EXIT PaymentServiceIO ReadData	Wed Jun 03 16:36:14 EEST 2020
+addPayments	Wed Jun 03 16:36:14 EEST 2020
+seeProducts	Wed Jun 03 16:36:14 EEST 2020
+seeEmployees	Wed Jun 03 16:36:14 EEST 2020
+seeFiredEmployees	Wed Jun 03 16:36:14 EEST 2020
+seePayments	Wed Jun 03 16:36:14 EEST 2020
+
+
+
+		NEW SESSION	Wed Jun 03 16:38:25 EEST 2020
+ENTER ProductServiceIO ReadData	Wed Jun 03 16:38:25 EEST 2020
+EXIT ProductServiceIO ReadData	Wed Jun 03 16:38:25 EEST 2020
+addToMemory	Wed Jun 03 16:38:25 EEST 2020
+ENTER EmployeeServiceIO ReadData	Wed Jun 03 16:38:25 EEST 2020
+EXIT EmployeeServiceIO ReadData	Wed Jun 03 16:38:25 EEST 2020
+addEmployees	Wed Jun 03 16:38:25 EEST 2020
+ENTER EmployeeServiceIO ReadFired	Wed Jun 03 16:38:25 EEST 2020
+EXIT EmployeeServiceIO ReadFired	Wed Jun 03 16:38:25 EEST 2020
+addFiredEmployees	Wed Jun 03 16:38:25 EEST 2020
+ENTER PaymentServiceIO ReadData	Wed Jun 03 16:38:25 EEST 2020
+findProduct	Wed Jun 03 16:38:25 EEST 2020
+findProduct	Wed Jun 03 16:38:25 EEST 2020
+findProduct	Wed Jun 03 16:38:25 EEST 2020
+findProduct	Wed Jun 03 16:38:25 EEST 2020
+EXIT PaymentServiceIO ReadData	Wed Jun 03 16:38:25 EEST 2020
+addPayments	Wed Jun 03 16:38:25 EEST 2020
+seeProducts	Wed Jun 03 16:38:25 EEST 2020
+seeEmployees	Wed Jun 03 16:38:25 EEST 2020
+seeFiredEmployees	Wed Jun 03 16:38:25 EEST 2020
+seePayments	Wed Jun 03 16:38:25 EEST 2020
+
+
+
+		NEW SESSION	Wed Jun 03 16:39:24 EEST 2020
+ENTER ProductServiceIO ReadData	Wed Jun 03 16:39:24 EEST 2020
+EXIT ProductServiceIO ReadData	Wed Jun 03 16:39:24 EEST 2020
+addToMemory	Wed Jun 03 16:39:24 EEST 2020
+ENTER EmployeeServiceIO ReadData	Wed Jun 03 16:39:24 EEST 2020
+EXIT EmployeeServiceIO ReadData	Wed Jun 03 16:39:24 EEST 2020
+addEmployees	Wed Jun 03 16:39:24 EEST 2020
+ENTER EmployeeServiceIO ReadFired	Wed Jun 03 16:39:24 EEST 2020
+EXIT EmployeeServiceIO ReadFired	Wed Jun 03 16:39:24 EEST 2020
+addFiredEmployees	Wed Jun 03 16:39:24 EEST 2020
+ENTER PaymentServiceIO ReadData	Wed Jun 03 16:39:24 EEST 2020
+findProduct	Wed Jun 03 16:39:24 EEST 2020
+findProduct	Wed Jun 03 16:39:24 EEST 2020
+findProduct	Wed Jun 03 16:39:24 EEST 2020
+findProduct	Wed Jun 03 16:39:24 EEST 2020
+EXIT PaymentServiceIO ReadData	Wed Jun 03 16:39:24 EEST 2020
+addPayments	Wed Jun 03 16:39:24 EEST 2020
+seeProducts	Wed Jun 03 16:39:24 EEST 2020
+seeEmployees	Wed Jun 03 16:39:24 EEST 2020
+seeFiredEmployees	Wed Jun 03 16:39:24 EEST 2020
+seePayments	Wed Jun 03 16:39:24 EEST 2020
+
+
+
+		NEW SESSION	Wed Jun 03 16:39:51 EEST 2020
+ENTER ProductServiceIO ReadData	Wed Jun 03 16:39:51 EEST 2020
+EXIT ProductServiceIO ReadData	Wed Jun 03 16:39:51 EEST 2020
+addToMemory	Wed Jun 03 16:39:51 EEST 2020
+ENTER EmployeeServiceIO ReadData	Wed Jun 03 16:39:51 EEST 2020
+EXIT EmployeeServiceIO ReadData	Wed Jun 03 16:39:51 EEST 2020
+addEmployees	Wed Jun 03 16:39:51 EEST 2020
+ENTER EmployeeServiceIO ReadFired	Wed Jun 03 16:39:51 EEST 2020
+EXIT EmployeeServiceIO ReadFired	Wed Jun 03 16:39:51 EEST 2020
+addFiredEmployees	Wed Jun 03 16:39:51 EEST 2020
+ENTER PaymentServiceIO ReadData	Wed Jun 03 16:39:51 EEST 2020
+findProduct	Wed Jun 03 16:39:51 EEST 2020
+findProduct	Wed Jun 03 16:39:51 EEST 2020
+findProduct	Wed Jun 03 16:39:51 EEST 2020
+findProduct	Wed Jun 03 16:39:51 EEST 2020
+EXIT PaymentServiceIO ReadData	Wed Jun 03 16:39:51 EEST 2020
+addPayments	Wed Jun 03 16:39:51 EEST 2020
+seeProducts	Wed Jun 03 16:39:51 EEST 2020
+seeEmployees	Wed Jun 03 16:39:51 EEST 2020
+seeFiredEmployees	Wed Jun 03 16:39:51 EEST 2020
+seePayments	Wed Jun 03 16:39:51 EEST 2020
+
+
+
+		NEW SESSION	Wed Jun 03 16:40:28 EEST 2020
+ENTER ProductServiceIO ReadData	Wed Jun 03 16:40:28 EEST 2020
+EXIT ProductServiceIO ReadData	Wed Jun 03 16:40:28 EEST 2020
+addToMemory	Wed Jun 03 16:40:28 EEST 2020
+ENTER EmployeeServiceIO ReadData	Wed Jun 03 16:40:28 EEST 2020
+EXIT EmployeeServiceIO ReadData	Wed Jun 03 16:40:28 EEST 2020
+addEmployees	Wed Jun 03 16:40:28 EEST 2020
+ENTER EmployeeServiceIO ReadFired	Wed Jun 03 16:40:28 EEST 2020
+EXIT EmployeeServiceIO ReadFired	Wed Jun 03 16:40:28 EEST 2020
+addFiredEmployees	Wed Jun 03 16:40:28 EEST 2020
+ENTER PaymentServiceIO ReadData	Wed Jun 03 16:40:28 EEST 2020
+findProduct	Wed Jun 03 16:40:28 EEST 2020
+findProduct	Wed Jun 03 16:40:28 EEST 2020
+findProduct	Wed Jun 03 16:40:28 EEST 2020
+findProduct	Wed Jun 03 16:40:28 EEST 2020
+EXIT PaymentServiceIO ReadData	Wed Jun 03 16:40:28 EEST 2020
+addPayments	Wed Jun 03 16:40:28 EEST 2020
+seeProducts	Wed Jun 03 16:40:28 EEST 2020
+seeEmployees	Wed Jun 03 16:40:28 EEST 2020
+seeFiredEmployees	Wed Jun 03 16:40:28 EEST 2020
+seePayments	Wed Jun 03 16:40:28 EEST 2020
+
+
+
+		NEW SESSION	Wed Jun 03 16:40:52 EEST 2020
+ENTER ProductServiceIO ReadData	Wed Jun 03 16:40:52 EEST 2020
+EXIT ProductServiceIO ReadData	Wed Jun 03 16:40:52 EEST 2020
+addToMemory	Wed Jun 03 16:40:52 EEST 2020
+ENTER EmployeeServiceIO ReadData	Wed Jun 03 16:40:52 EEST 2020
+EXIT EmployeeServiceIO ReadData	Wed Jun 03 16:40:52 EEST 2020
+addEmployees	Wed Jun 03 16:40:52 EEST 2020
+ENTER EmployeeServiceIO ReadFired	Wed Jun 03 16:40:52 EEST 2020
+EXIT EmployeeServiceIO ReadFired	Wed Jun 03 16:40:52 EEST 2020
+addFiredEmployees	Wed Jun 03 16:40:52 EEST 2020
+ENTER PaymentServiceIO ReadData	Wed Jun 03 16:40:52 EEST 2020
+findProduct	Wed Jun 03 16:40:52 EEST 2020
+findProduct	Wed Jun 03 16:40:52 EEST 2020
+findProduct	Wed Jun 03 16:40:52 EEST 2020
+findProduct	Wed Jun 03 16:40:52 EEST 2020
+EXIT PaymentServiceIO ReadData	Wed Jun 03 16:40:52 EEST 2020
+addPayments	Wed Jun 03 16:40:52 EEST 2020
+seeProducts	Wed Jun 03 16:40:52 EEST 2020
+seeEmployees	Wed Jun 03 16:40:52 EEST 2020
+seeFiredEmployees	Wed Jun 03 16:40:52 EEST 2020
+seePayments	Wed Jun 03 16:40:52 EEST 2020
+
+
+
+		NEW SESSION	Wed Jun 03 16:46:14 EEST 2020
+ENTER ProductServiceIO ReadData	Wed Jun 03 16:46:14 EEST 2020
+EXIT ProductServiceIO ReadData	Wed Jun 03 16:46:14 EEST 2020
+addToMemory	Wed Jun 03 16:46:14 EEST 2020
+ENTER EmployeeServiceIO ReadData	Wed Jun 03 16:46:14 EEST 2020
+EXIT EmployeeServiceIO ReadData	Wed Jun 03 16:46:14 EEST 2020
+addEmployees	Wed Jun 03 16:46:14 EEST 2020
+ENTER EmployeeServiceIO ReadFired	Wed Jun 03 16:46:14 EEST 2020
+EXIT EmployeeServiceIO ReadFired	Wed Jun 03 16:46:14 EEST 2020
+addFiredEmployees	Wed Jun 03 16:46:14 EEST 2020
+ENTER PaymentServiceIO ReadData	Wed Jun 03 16:46:14 EEST 2020
+findProduct	Wed Jun 03 16:46:14 EEST 2020
+findProduct	Wed Jun 03 16:46:14 EEST 2020
+findProduct	Wed Jun 03 16:46:14 EEST 2020
+findProduct	Wed Jun 03 16:46:14 EEST 2020
+EXIT PaymentServiceIO ReadData	Wed Jun 03 16:46:14 EEST 2020
+addPayments	Wed Jun 03 16:46:14 EEST 2020
+seeProducts	Wed Jun 03 16:46:14 EEST 2020
+seeEmployees	Wed Jun 03 16:46:14 EEST 2020
+seeFiredEmployees	Wed Jun 03 16:46:14 EEST 2020
+seePayments	Wed Jun 03 16:46:14 EEST 2020
+addProduct	Wed Jun 03 16:47:01 EEST 2020
+ENTER ProductServiceIO WriteData	Wed Jun 03 16:47:01 EEST 2020
+EXIT ProductServiceIO WriteData	Wed Jun 03 16:47:01 EEST 2020
+
+
+
+		NEW SESSION	Wed Jun 03 16:53:48 EEST 2020
+ENTER ProductServiceIO ReadData	Wed Jun 03 16:53:48 EEST 2020
+EXIT ProductServiceIO ReadData	Wed Jun 03 16:53:48 EEST 2020
+addToMemory	Wed Jun 03 16:53:48 EEST 2020
+ENTER EmployeeServiceIO ReadData	Wed Jun 03 16:53:48 EEST 2020
+EXIT EmployeeServiceIO ReadData	Wed Jun 03 16:53:48 EEST 2020
+addEmployees	Wed Jun 03 16:53:48 EEST 2020
+ENTER EmployeeServiceIO ReadFired	Wed Jun 03 16:53:48 EEST 2020
+EXIT EmployeeServiceIO ReadFired	Wed Jun 03 16:53:48 EEST 2020
+addFiredEmployees	Wed Jun 03 16:53:48 EEST 2020
+ENTER PaymentServiceIO ReadData	Wed Jun 03 16:53:48 EEST 2020
+findProduct	Wed Jun 03 16:53:48 EEST 2020
+findProduct	Wed Jun 03 16:53:48 EEST 2020
+findProduct	Wed Jun 03 16:53:48 EEST 2020
+findProduct	Wed Jun 03 16:53:48 EEST 2020
+EXIT PaymentServiceIO ReadData	Wed Jun 03 16:53:48 EEST 2020
+addPayments	Wed Jun 03 16:53:48 EEST 2020
+seeProducts	Wed Jun 03 16:53:48 EEST 2020
+seeEmployees	Wed Jun 03 16:53:48 EEST 2020
+seeFiredEmployees	Wed Jun 03 16:53:48 EEST 2020
+seePayments	Wed Jun 03 16:53:48 EEST 2020
+
+
+
+		NEW SESSION	Wed Jun 03 16:54:59 EEST 2020
+ENTER ProductServiceIO ReadData	Wed Jun 03 16:54:59 EEST 2020
+EXIT ProductServiceIO ReadData	Wed Jun 03 16:54:59 EEST 2020
+addToMemory	Wed Jun 03 16:54:59 EEST 2020
+ENTER EmployeeServiceIO ReadData	Wed Jun 03 16:54:59 EEST 2020
+EXIT EmployeeServiceIO ReadData	Wed Jun 03 16:54:59 EEST 2020
+addEmployees	Wed Jun 03 16:54:59 EEST 2020
+ENTER EmployeeServiceIO ReadFired	Wed Jun 03 16:54:59 EEST 2020
+EXIT EmployeeServiceIO ReadFired	Wed Jun 03 16:54:59 EEST 2020
+addFiredEmployees	Wed Jun 03 16:54:59 EEST 2020
+ENTER PaymentServiceIO ReadData	Wed Jun 03 16:54:59 EEST 2020
+findProduct	Wed Jun 03 16:54:59 EEST 2020
+findProduct	Wed Jun 03 16:54:59 EEST 2020
+findProduct	Wed Jun 03 16:54:59 EEST 2020
+findProduct	Wed Jun 03 16:54:59 EEST 2020
+EXIT PaymentServiceIO ReadData	Wed Jun 03 16:54:59 EEST 2020
+addPayments	Wed Jun 03 16:54:59 EEST 2020
+seeProducts	Wed Jun 03 16:54:59 EEST 2020
+seeEmployees	Wed Jun 03 16:54:59 EEST 2020
+seeFiredEmployees	Wed Jun 03 16:54:59 EEST 2020
+seePayments	Wed Jun 03 16:54:59 EEST 2020
+
+
+
+		NEW SESSION	Wed Jun 03 16:56:33 EEST 2020
+ENTER ProductServiceIO ReadData	Wed Jun 03 16:56:33 EEST 2020
+EXIT ProductServiceIO ReadData	Wed Jun 03 16:56:33 EEST 2020
+addToMemory	Wed Jun 03 16:56:33 EEST 2020
+ENTER EmployeeServiceIO ReadData	Wed Jun 03 16:56:33 EEST 2020
+EXIT EmployeeServiceIO ReadData	Wed Jun 03 16:56:33 EEST 2020
+addEmployees	Wed Jun 03 16:56:33 EEST 2020
+ENTER EmployeeServiceIO ReadFired	Wed Jun 03 16:56:33 EEST 2020
+EXIT EmployeeServiceIO ReadFired	Wed Jun 03 16:56:33 EEST 2020
+addFiredEmployees	Wed Jun 03 16:56:33 EEST 2020
+ENTER PaymentServiceIO ReadData	Wed Jun 03 16:56:33 EEST 2020
+findProduct	Wed Jun 03 16:56:33 EEST 2020
+findProduct	Wed Jun 03 16:56:33 EEST 2020
+findProduct	Wed Jun 03 16:56:33 EEST 2020
+findProduct	Wed Jun 03 16:56:33 EEST 2020
+EXIT PaymentServiceIO ReadData	Wed Jun 03 16:56:33 EEST 2020
+addPayments	Wed Jun 03 16:56:33 EEST 2020
+seeProducts	Wed Jun 03 16:56:33 EEST 2020
+seeEmployees	Wed Jun 03 16:56:33 EEST 2020
+seeFiredEmployees	Wed Jun 03 16:56:33 EEST 2020
+seePayments	Wed Jun 03 16:56:33 EEST 2020
+removeProduct	Wed Jun 03 16:56:45 EEST 2020
+ENTER ProductServiceIO deleteProduct	Wed Jun 03 16:56:45 EEST 2020
+Exit ProductServiceIO deleteProduct	Wed Jun 03 16:56:45 EEST 2020
+
+
+
+		NEW SESSION	Wed Jun 03 17:09:25 EEST 2020
+ENTER ProductServiceIO ReadData	Wed Jun 03 17:09:25 EEST 2020
+EXIT ProductServiceIO ReadData	Wed Jun 03 17:09:25 EEST 2020
+addToMemory	Wed Jun 03 17:09:25 EEST 2020
+ENTER EmployeeServiceIO ReadData	Wed Jun 03 17:09:25 EEST 2020
+EXIT EmployeeServiceIO ReadData	Wed Jun 03 17:09:25 EEST 2020
+addEmployees	Wed Jun 03 17:09:25 EEST 2020
+ENTER EmployeeServiceIO ReadFired	Wed Jun 03 17:09:25 EEST 2020
+EXIT EmployeeServiceIO ReadFired	Wed Jun 03 17:09:25 EEST 2020
+addFiredEmployees	Wed Jun 03 17:09:25 EEST 2020
+ENTER PaymentServiceIO ReadData	Wed Jun 03 17:09:25 EEST 2020
+findProduct	Wed Jun 03 17:09:25 EEST 2020
+findProduct	Wed Jun 03 17:09:25 EEST 2020
+findProduct	Wed Jun 03 17:09:25 EEST 2020
+findProduct	Wed Jun 03 17:09:25 EEST 2020
+EXIT PaymentServiceIO ReadData	Wed Jun 03 17:09:25 EEST 2020
+addPayments	Wed Jun 03 17:09:25 EEST 2020
+seeProducts	Wed Jun 03 17:09:25 EEST 2020
+seeEmployees	Wed Jun 03 17:09:25 EEST 2020
+seeFiredEmployees	Wed Jun 03 17:09:25 EEST 2020
+seePayments	Wed Jun 03 17:09:25 EEST 2020
+
+
+
+		NEW SESSION	Wed Jun 03 17:10:07 EEST 2020
+ENTER ProductServiceIO ReadData	Wed Jun 03 17:10:07 EEST 2020
+EXIT ProductServiceIO ReadData	Wed Jun 03 17:10:07 EEST 2020
+addToMemory	Wed Jun 03 17:10:07 EEST 2020
+ENTER EmployeeServiceIO ReadData	Wed Jun 03 17:10:07 EEST 2020
+EXIT EmployeeServiceIO ReadData	Wed Jun 03 17:10:07 EEST 2020
+addEmployees	Wed Jun 03 17:10:07 EEST 2020
+ENTER EmployeeServiceIO ReadFired	Wed Jun 03 17:10:07 EEST 2020
+EXIT EmployeeServiceIO ReadFired	Wed Jun 03 17:10:07 EEST 2020
+addFiredEmployees	Wed Jun 03 17:10:07 EEST 2020
+ENTER PaymentServiceIO ReadData	Wed Jun 03 17:10:07 EEST 2020
+findProduct	Wed Jun 03 17:10:07 EEST 2020
+findProduct	Wed Jun 03 17:10:07 EEST 2020
+findProduct	Wed Jun 03 17:10:07 EEST 2020
+findProduct	Wed Jun 03 17:10:07 EEST 2020
+EXIT PaymentServiceIO ReadData	Wed Jun 03 17:10:07 EEST 2020
+addPayments	Wed Jun 03 17:10:07 EEST 2020
+seeProducts	Wed Jun 03 17:10:07 EEST 2020
+seeEmployees	Wed Jun 03 17:10:07 EEST 2020
+seeFiredEmployees	Wed Jun 03 17:10:07 EEST 2020
+seePayments	Wed Jun 03 17:10:07 EEST 2020
+chaneProductNameById	Wed Jun 03 17:10:21 EEST 2020
+ENTER ProductServiceIO changeName	Wed Jun 03 17:10:21 EEST 2020
+EXIT ProductServiceIO changeName	Wed Jun 03 17:10:21 EEST 2020
+
+
+
+		NEW SESSION	Wed Jun 03 17:12:34 EEST 2020
+ENTER ProductServiceIO ReadData	Wed Jun 03 17:12:34 EEST 2020
+EXIT ProductServiceIO ReadData	Wed Jun 03 17:12:34 EEST 2020
+addToMemory	Wed Jun 03 17:12:34 EEST 2020
+ENTER EmployeeServiceIO ReadData	Wed Jun 03 17:12:34 EEST 2020
+EXIT EmployeeServiceIO ReadData	Wed Jun 03 17:12:34 EEST 2020
+addEmployees	Wed Jun 03 17:12:34 EEST 2020
+ENTER EmployeeServiceIO ReadFired	Wed Jun 03 17:12:34 EEST 2020
+EXIT EmployeeServiceIO ReadFired	Wed Jun 03 17:12:34 EEST 2020
+addFiredEmployees	Wed Jun 03 17:12:34 EEST 2020
+ENTER PaymentServiceIO ReadData	Wed Jun 03 17:12:34 EEST 2020
+findProduct	Wed Jun 03 17:12:34 EEST 2020
+findProduct	Wed Jun 03 17:12:34 EEST 2020
+findProduct	Wed Jun 03 17:12:34 EEST 2020
+findProduct	Wed Jun 03 17:12:34 EEST 2020
+EXIT PaymentServiceIO ReadData	Wed Jun 03 17:12:34 EEST 2020
+addPayments	Wed Jun 03 17:12:34 EEST 2020
+seeProducts	Wed Jun 03 17:12:34 EEST 2020
+seeEmployees	Wed Jun 03 17:12:34 EEST 2020
+seeFiredEmployees	Wed Jun 03 17:12:34 EEST 2020
+seePayments	Wed Jun 03 17:12:34 EEST 2020
+
+
+
+		NEW SESSION	Wed Jun 03 17:18:43 EEST 2020
+ENTER ProductServiceIO ReadData	Wed Jun 03 17:18:43 EEST 2020
+EXIT ProductServiceIO ReadData	Wed Jun 03 17:18:43 EEST 2020
+addToMemory	Wed Jun 03 17:18:43 EEST 2020
+ENTER EmployeeServiceIO ReadData	Wed Jun 03 17:18:43 EEST 2020
+EXIT EmployeeServiceIO ReadData	Wed Jun 03 17:18:43 EEST 2020
+addEmployees	Wed Jun 03 17:18:43 EEST 2020
+ENTER EmployeeServiceIO ReadFired	Wed Jun 03 17:18:43 EEST 2020
+EXIT EmployeeServiceIO ReadFired	Wed Jun 03 17:18:43 EEST 2020
+addFiredEmployees	Wed Jun 03 17:18:43 EEST 2020
+ENTER PaymentServiceIO ReadData	Wed Jun 03 17:18:43 EEST 2020
+findProduct	Wed Jun 03 17:18:43 EEST 2020
+findProduct	Wed Jun 03 17:18:43 EEST 2020
+findProduct	Wed Jun 03 17:18:43 EEST 2020
+findProduct	Wed Jun 03 17:18:43 EEST 2020
+EXIT PaymentServiceIO ReadData	Wed Jun 03 17:18:43 EEST 2020
+addPayments	Wed Jun 03 17:18:43 EEST 2020
+seeProducts	Wed Jun 03 17:18:43 EEST 2020
+seeEmployees	Wed Jun 03 17:18:43 EEST 2020
+seeFiredEmployees	Wed Jun 03 17:18:43 EEST 2020
+seePayments	Wed Jun 03 17:18:43 EEST 2020
+
+
+
+		NEW SESSION	Wed Jun 03 17:19:22 EEST 2020
+ENTER ProductServiceIO ReadData	Wed Jun 03 17:19:22 EEST 2020
+EXIT ProductServiceIO ReadData	Wed Jun 03 17:19:22 EEST 2020
+addToMemory	Wed Jun 03 17:19:22 EEST 2020
+ENTER EmployeeServiceIO ReadData	Wed Jun 03 17:19:22 EEST 2020
+EXIT EmployeeServiceIO ReadData	Wed Jun 03 17:19:22 EEST 2020
+addEmployees	Wed Jun 03 17:19:22 EEST 2020
+ENTER EmployeeServiceIO ReadFired	Wed Jun 03 17:19:22 EEST 2020
+EXIT EmployeeServiceIO ReadFired	Wed Jun 03 17:19:22 EEST 2020
+addFiredEmployees	Wed Jun 03 17:19:22 EEST 2020
+ENTER PaymentServiceIO ReadData	Wed Jun 03 17:19:22 EEST 2020
+findProduct	Wed Jun 03 17:19:22 EEST 2020
+findProduct	Wed Jun 03 17:19:22 EEST 2020
+findProduct	Wed Jun 03 17:19:22 EEST 2020
+findProduct	Wed Jun 03 17:19:22 EEST 2020
+EXIT PaymentServiceIO ReadData	Wed Jun 03 17:19:22 EEST 2020
+addPayments	Wed Jun 03 17:19:22 EEST 2020
+seeProducts	Wed Jun 03 17:19:22 EEST 2020
+seeEmployees	Wed Jun 03 17:19:22 EEST 2020
+seeFiredEmployees	Wed Jun 03 17:19:22 EEST 2020
+seePayments	Wed Jun 03 17:19:22 EEST 2020
+chaneProductNameById	Wed Jun 03 17:19:37 EEST 2020
+ENTER ProductServiceIO changeName	Wed Jun 03 17:19:37 EEST 2020
+EXIT ProductServiceIO changeName	Wed Jun 03 17:19:37 EEST 2020
+
+
+
+		NEW SESSION	Wed Jun 03 17:20:23 EEST 2020
+ENTER ProductServiceIO ReadData	Wed Jun 03 17:20:23 EEST 2020
+EXIT ProductServiceIO ReadData	Wed Jun 03 17:20:23 EEST 2020
+addToMemory	Wed Jun 03 17:20:23 EEST 2020
+ENTER EmployeeServiceIO ReadData	Wed Jun 03 17:20:23 EEST 2020
+EXIT EmployeeServiceIO ReadData	Wed Jun 03 17:20:23 EEST 2020
+addEmployees	Wed Jun 03 17:20:23 EEST 2020
+ENTER EmployeeServiceIO ReadFired	Wed Jun 03 17:20:23 EEST 2020
+EXIT EmployeeServiceIO ReadFired	Wed Jun 03 17:20:23 EEST 2020
+addFiredEmployees	Wed Jun 03 17:20:23 EEST 2020
+ENTER PaymentServiceIO ReadData	Wed Jun 03 17:20:23 EEST 2020
+findProduct	Wed Jun 03 17:20:23 EEST 2020
+findProduct	Wed Jun 03 17:20:23 EEST 2020
+findProduct	Wed Jun 03 17:20:23 EEST 2020
+findProduct	Wed Jun 03 17:20:23 EEST 2020
+EXIT PaymentServiceIO ReadData	Wed Jun 03 17:20:23 EEST 2020
+addPayments	Wed Jun 03 17:20:23 EEST 2020
+seeProducts	Wed Jun 03 17:20:23 EEST 2020
+seeEmployees	Wed Jun 03 17:20:23 EEST 2020
+seeFiredEmployees	Wed Jun 03 17:20:23 EEST 2020
+seePayments	Wed Jun 03 17:20:23 EEST 2020
+
+
+
+		NEW SESSION	Wed Jun 03 17:22:46 EEST 2020
+ENTER ProductServiceIO ReadData	Wed Jun 03 17:22:46 EEST 2020
+EXIT ProductServiceIO ReadData	Wed Jun 03 17:22:46 EEST 2020
+addToMemory	Wed Jun 03 17:22:46 EEST 2020
+ENTER EmployeeServiceIO ReadData	Wed Jun 03 17:22:46 EEST 2020
+EXIT EmployeeServiceIO ReadData	Wed Jun 03 17:22:46 EEST 2020
+addEmployees	Wed Jun 03 17:22:46 EEST 2020
+ENTER EmployeeServiceIO ReadFired	Wed Jun 03 17:22:46 EEST 2020
+EXIT EmployeeServiceIO ReadFired	Wed Jun 03 17:22:46 EEST 2020
+addFiredEmployees	Wed Jun 03 17:22:46 EEST 2020
+ENTER PaymentServiceIO ReadData	Wed Jun 03 17:22:46 EEST 2020
+findProduct	Wed Jun 03 17:22:46 EEST 2020
+findProduct	Wed Jun 03 17:22:46 EEST 2020
+findProduct	Wed Jun 03 17:22:46 EEST 2020
+findProduct	Wed Jun 03 17:22:46 EEST 2020
+EXIT PaymentServiceIO ReadData	Wed Jun 03 17:22:46 EEST 2020
+addPayments	Wed Jun 03 17:22:46 EEST 2020
+seeProducts	Wed Jun 03 17:22:46 EEST 2020
+seeEmployees	Wed Jun 03 17:22:46 EEST 2020
+seeFiredEmployees	Wed Jun 03 17:22:46 EEST 2020
+seePayments	Wed Jun 03 17:22:46 EEST 2020
+
+
+
+		NEW SESSION	Wed Jun 03 17:23:41 EEST 2020
+ENTER ProductServiceIO ReadData	Wed Jun 03 17:23:41 EEST 2020
+EXIT ProductServiceIO ReadData	Wed Jun 03 17:23:41 EEST 2020
+addToMemory	Wed Jun 03 17:23:41 EEST 2020
+ENTER EmployeeServiceIO ReadData	Wed Jun 03 17:23:41 EEST 2020
+EXIT EmployeeServiceIO ReadData	Wed Jun 03 17:23:41 EEST 2020
+addEmployees	Wed Jun 03 17:23:41 EEST 2020
+ENTER EmployeeServiceIO ReadFired	Wed Jun 03 17:23:41 EEST 2020
+EXIT EmployeeServiceIO ReadFired	Wed Jun 03 17:23:41 EEST 2020
+addFiredEmployees	Wed Jun 03 17:23:41 EEST 2020
+ENTER PaymentServiceIO ReadData	Wed Jun 03 17:23:41 EEST 2020
+findProduct	Wed Jun 03 17:23:41 EEST 2020
+findProduct	Wed Jun 03 17:23:41 EEST 2020
+findProduct	Wed Jun 03 17:23:41 EEST 2020
+findProduct	Wed Jun 03 17:23:41 EEST 2020
+EXIT PaymentServiceIO ReadData	Wed Jun 03 17:23:41 EEST 2020
+addPayments	Wed Jun 03 17:23:41 EEST 2020
+seeProducts	Wed Jun 03 17:23:41 EEST 2020
+seeEmployees	Wed Jun 03 17:23:41 EEST 2020
+seeFiredEmployees	Wed Jun 03 17:23:41 EEST 2020
+seePayments	Wed Jun 03 17:23:41 EEST 2020
+
+
+
+		NEW SESSION	Wed Jun 03 17:24:46 EEST 2020
+ENTER ProductServiceIO ReadData	Wed Jun 03 17:24:46 EEST 2020
+EXIT ProductServiceIO ReadData	Wed Jun 03 17:24:46 EEST 2020
+addToMemory	Wed Jun 03 17:24:46 EEST 2020
+ENTER EmployeeServiceIO ReadData	Wed Jun 03 17:24:46 EEST 2020
+EXIT EmployeeServiceIO ReadData	Wed Jun 03 17:24:46 EEST 2020
+addEmployees	Wed Jun 03 17:24:46 EEST 2020
+ENTER EmployeeServiceIO ReadFired	Wed Jun 03 17:24:46 EEST 2020
+EXIT EmployeeServiceIO ReadFired	Wed Jun 03 17:24:46 EEST 2020
+addFiredEmployees	Wed Jun 03 17:24:46 EEST 2020
+ENTER PaymentServiceIO ReadData	Wed Jun 03 17:24:46 EEST 2020
+findProduct	Wed Jun 03 17:24:46 EEST 2020
+findProduct	Wed Jun 03 17:24:46 EEST 2020
+findProduct	Wed Jun 03 17:24:46 EEST 2020
+findProduct	Wed Jun 03 17:24:46 EEST 2020
+EXIT PaymentServiceIO ReadData	Wed Jun 03 17:24:46 EEST 2020
+addPayments	Wed Jun 03 17:24:46 EEST 2020
+seeProducts	Wed Jun 03 17:24:46 EEST 2020
+seeEmployees	Wed Jun 03 17:24:46 EEST 2020
+seeFiredEmployees	Wed Jun 03 17:24:46 EEST 2020
+seePayments	Wed Jun 03 17:24:46 EEST 2020
+addProduct	Wed Jun 03 17:25:08 EEST 2020
+ENTER ProductServiceIO WriteData	Wed Jun 03 17:25:08 EEST 2020
+EXIT ProductServiceIO WriteData	Wed Jun 03 17:25:08 EEST 2020
+removeProduct	Wed Jun 03 17:25:17 EEST 2020
+ENTER ProductServiceIO deleteProduct	Wed Jun 03 17:25:17 EEST 2020
+Exit ProductServiceIO deleteProduct	Wed Jun 03 17:25:17 EEST 2020
+
+
+
+		NEW SESSION	Wed Jun 03 17:26:20 EEST 2020
+ENTER ProductServiceIO ReadData	Wed Jun 03 17:26:20 EEST 2020
+EXIT ProductServiceIO ReadData	Wed Jun 03 17:26:20 EEST 2020
+addToMemory	Wed Jun 03 17:26:20 EEST 2020
+ENTER EmployeeServiceIO ReadData	Wed Jun 03 17:26:20 EEST 2020
+EXIT EmployeeServiceIO ReadData	Wed Jun 03 17:26:20 EEST 2020
+addEmployees	Wed Jun 03 17:26:20 EEST 2020
+ENTER EmployeeServiceIO ReadFired	Wed Jun 03 17:26:20 EEST 2020
+EXIT EmployeeServiceIO ReadFired	Wed Jun 03 17:26:20 EEST 2020
+addFiredEmployees	Wed Jun 03 17:26:20 EEST 2020
+ENTER PaymentServiceIO ReadData	Wed Jun 03 17:26:20 EEST 2020
+findProduct	Wed Jun 03 17:26:20 EEST 2020
+findProduct	Wed Jun 03 17:26:20 EEST 2020
+findProduct	Wed Jun 03 17:26:20 EEST 2020
+findProduct	Wed Jun 03 17:26:20 EEST 2020
+EXIT PaymentServiceIO ReadData	Wed Jun 03 17:26:20 EEST 2020
+addPayments	Wed Jun 03 17:26:20 EEST 2020
+seeProducts	Wed Jun 03 17:26:20 EEST 2020
+seeEmployees	Wed Jun 03 17:26:20 EEST 2020
+seeFiredEmployees	Wed Jun 03 17:26:20 EEST 2020
+seePayments	Wed Jun 03 17:26:20 EEST 2020
+
+
+
+		NEW SESSION	Wed Jun 03 17:26:53 EEST 2020
+ENTER ProductServiceIO ReadData	Wed Jun 03 17:26:53 EEST 2020
+EXIT ProductServiceIO ReadData	Wed Jun 03 17:26:53 EEST 2020
+addToMemory	Wed Jun 03 17:26:53 EEST 2020
+ENTER EmployeeServiceIO ReadData	Wed Jun 03 17:26:53 EEST 2020
+EXIT EmployeeServiceIO ReadData	Wed Jun 03 17:26:53 EEST 2020
+addEmployees	Wed Jun 03 17:26:53 EEST 2020
+ENTER EmployeeServiceIO ReadFired	Wed Jun 03 17:26:53 EEST 2020
+EXIT EmployeeServiceIO ReadFired	Wed Jun 03 17:26:53 EEST 2020
+addFiredEmployees	Wed Jun 03 17:26:53 EEST 2020
+ENTER PaymentServiceIO ReadData	Wed Jun 03 17:26:53 EEST 2020
+findProduct	Wed Jun 03 17:26:53 EEST 2020
+findProduct	Wed Jun 03 17:26:53 EEST 2020
+findProduct	Wed Jun 03 17:26:53 EEST 2020
+findProduct	Wed Jun 03 17:26:53 EEST 2020
+EXIT PaymentServiceIO ReadData	Wed Jun 03 17:26:53 EEST 2020
+addPayments	Wed Jun 03 17:26:53 EEST 2020
+seeProducts	Wed Jun 03 17:26:53 EEST 2020
+seeEmployees	Wed Jun 03 17:26:53 EEST 2020
+seeFiredEmployees	Wed Jun 03 17:26:53 EEST 2020
+seePayments	Wed Jun 03 17:26:53 EEST 2020
+
+
+
+		NEW SESSION	Wed Jun 03 17:28:46 EEST 2020
+ENTER ProductServiceIO ReadData	Wed Jun 03 17:28:46 EEST 2020
+EXIT ProductServiceIO ReadData	Wed Jun 03 17:28:46 EEST 2020
+addToMemory	Wed Jun 03 17:28:46 EEST 2020
+ENTER EmployeeServiceIO ReadData	Wed Jun 03 17:28:46 EEST 2020
+EXIT EmployeeServiceIO ReadData	Wed Jun 03 17:28:46 EEST 2020
+addEmployees	Wed Jun 03 17:28:46 EEST 2020
+ENTER EmployeeServiceIO ReadFired	Wed Jun 03 17:28:46 EEST 2020
+EXIT EmployeeServiceIO ReadFired	Wed Jun 03 17:28:46 EEST 2020
+addFiredEmployees	Wed Jun 03 17:28:46 EEST 2020
+ENTER PaymentServiceIO ReadData	Wed Jun 03 17:28:46 EEST 2020
+findProduct	Wed Jun 03 17:28:46 EEST 2020
+findProduct	Wed Jun 03 17:28:46 EEST 2020
+findProduct	Wed Jun 03 17:28:46 EEST 2020
+findProduct	Wed Jun 03 17:28:46 EEST 2020
+EXIT PaymentServiceIO ReadData	Wed Jun 03 17:28:46 EEST 2020
+addPayments	Wed Jun 03 17:28:46 EEST 2020
+seeProducts	Wed Jun 03 17:28:46 EEST 2020
+seeEmployees	Wed Jun 03 17:28:46 EEST 2020
+seeFiredEmployees	Wed Jun 03 17:28:46 EEST 2020
+seePayments	Wed Jun 03 17:28:46 EEST 2020
+
+
+
+		NEW SESSION	Wed Jun 03 17:30:07 EEST 2020
+ENTER ProductServiceIO ReadData	Wed Jun 03 17:30:07 EEST 2020
+EXIT ProductServiceIO ReadData	Wed Jun 03 17:30:07 EEST 2020
+addToMemory	Wed Jun 03 17:30:07 EEST 2020
+ENTER EmployeeServiceIO ReadData	Wed Jun 03 17:30:07 EEST 2020
+EXIT EmployeeServiceIO ReadData	Wed Jun 03 17:30:07 EEST 2020
+addEmployees	Wed Jun 03 17:30:07 EEST 2020
+ENTER EmployeeServiceIO ReadFired	Wed Jun 03 17:30:07 EEST 2020
+EXIT EmployeeServiceIO ReadFired	Wed Jun 03 17:30:07 EEST 2020
+addFiredEmployees	Wed Jun 03 17:30:07 EEST 2020
+ENTER PaymentServiceIO ReadData	Wed Jun 03 17:30:07 EEST 2020
+findProduct	Wed Jun 03 17:30:07 EEST 2020
+findProduct	Wed Jun 03 17:30:07 EEST 2020
+findProduct	Wed Jun 03 17:30:07 EEST 2020
+findProduct	Wed Jun 03 17:30:07 EEST 2020
+EXIT PaymentServiceIO ReadData	Wed Jun 03 17:30:07 EEST 2020
+addPayments	Wed Jun 03 17:30:07 EEST 2020
+seeProducts	Wed Jun 03 17:30:07 EEST 2020
+seeEmployees	Wed Jun 03 17:30:07 EEST 2020
+seeFiredEmployees	Wed Jun 03 17:30:07 EEST 2020
+seePayments	Wed Jun 03 17:30:07 EEST 2020
+
+
+
+		NEW SESSION	Wed Jun 03 17:30:27 EEST 2020
+ENTER ProductServiceIO ReadData	Wed Jun 03 17:30:27 EEST 2020
+EXIT ProductServiceIO ReadData	Wed Jun 03 17:30:27 EEST 2020
+addToMemory	Wed Jun 03 17:30:27 EEST 2020
+ENTER EmployeeServiceIO ReadData	Wed Jun 03 17:30:27 EEST 2020
+EXIT EmployeeServiceIO ReadData	Wed Jun 03 17:30:27 EEST 2020
+addEmployees	Wed Jun 03 17:30:27 EEST 2020
+ENTER EmployeeServiceIO ReadFired	Wed Jun 03 17:30:27 EEST 2020
+EXIT EmployeeServiceIO ReadFired	Wed Jun 03 17:30:27 EEST 2020
+addFiredEmployees	Wed Jun 03 17:30:27 EEST 2020
+ENTER PaymentServiceIO ReadData	Wed Jun 03 17:30:27 EEST 2020
+findProduct	Wed Jun 03 17:30:27 EEST 2020
+findProduct	Wed Jun 03 17:30:27 EEST 2020
+findProduct	Wed Jun 03 17:30:27 EEST 2020
+findProduct	Wed Jun 03 17:30:27 EEST 2020
+EXIT PaymentServiceIO ReadData	Wed Jun 03 17:30:27 EEST 2020
+addPayments	Wed Jun 03 17:30:27 EEST 2020
+seeProducts	Wed Jun 03 17:30:27 EEST 2020
+seeEmployees	Wed Jun 03 17:30:27 EEST 2020
+seeFiredEmployees	Wed Jun 03 17:30:27 EEST 2020
+seePayments	Wed Jun 03 17:30:27 EEST 2020
+
+
+
+		NEW SESSION	Wed Jun 03 17:36:25 EEST 2020
+ENTER ProductServiceIO ReadData	Wed Jun 03 17:36:25 EEST 2020
+EXIT ProductServiceIO ReadData	Wed Jun 03 17:36:25 EEST 2020
+addToMemory	Wed Jun 03 17:36:25 EEST 2020
+ENTER EmployeeServiceIO ReadData	Wed Jun 03 17:36:25 EEST 2020
+EXIT EmployeeServiceIO ReadData	Wed Jun 03 17:36:25 EEST 2020
+addEmployees	Wed Jun 03 17:36:25 EEST 2020
+ENTER EmployeeServiceIO ReadFired	Wed Jun 03 17:36:25 EEST 2020
+EXIT EmployeeServiceIO ReadFired	Wed Jun 03 17:36:25 EEST 2020
+addFiredEmployees	Wed Jun 03 17:36:25 EEST 2020
+ENTER PaymentServiceIO ReadData	Wed Jun 03 17:36:25 EEST 2020
+findProduct	Wed Jun 03 17:36:25 EEST 2020
+findProduct	Wed Jun 03 17:36:25 EEST 2020
+findProduct	Wed Jun 03 17:36:25 EEST 2020
+findProduct	Wed Jun 03 17:36:25 EEST 2020
+EXIT PaymentServiceIO ReadData	Wed Jun 03 17:36:25 EEST 2020
+addPayments	Wed Jun 03 17:36:25 EEST 2020
+seeProducts	Wed Jun 03 17:36:25 EEST 2020
+seeEmployees	Wed Jun 03 17:36:25 EEST 2020
+seeFiredEmployees	Wed Jun 03 17:36:25 EEST 2020
+seePayments	Wed Jun 03 17:36:25 EEST 2020
+
+
+
+		NEW SESSION	Wed Jun 03 17:37:07 EEST 2020
+ENTER ProductServiceIO ReadData	Wed Jun 03 17:37:07 EEST 2020
+EXIT ProductServiceIO ReadData	Wed Jun 03 17:37:07 EEST 2020
+addToMemory	Wed Jun 03 17:37:07 EEST 2020
+ENTER EmployeeServiceIO ReadData	Wed Jun 03 17:37:07 EEST 2020
+EXIT EmployeeServiceIO ReadData	Wed Jun 03 17:37:07 EEST 2020
+addEmployees	Wed Jun 03 17:37:07 EEST 2020
+ENTER EmployeeServiceIO ReadFired	Wed Jun 03 17:37:07 EEST 2020
+EXIT EmployeeServiceIO ReadFired	Wed Jun 03 17:37:07 EEST 2020
+addFiredEmployees	Wed Jun 03 17:37:07 EEST 2020
+ENTER PaymentServiceIO ReadData	Wed Jun 03 17:37:07 EEST 2020
+findProduct	Wed Jun 03 17:37:07 EEST 2020
+findProduct	Wed Jun 03 17:37:07 EEST 2020
+findProduct	Wed Jun 03 17:37:07 EEST 2020
+findProduct	Wed Jun 03 17:37:07 EEST 2020
+EXIT PaymentServiceIO ReadData	Wed Jun 03 17:37:07 EEST 2020
+addPayments	Wed Jun 03 17:37:07 EEST 2020
+seeProducts	Wed Jun 03 17:37:07 EEST 2020
+seeEmployees	Wed Jun 03 17:37:07 EEST 2020
+seeFiredEmployees	Wed Jun 03 17:37:07 EEST 2020
+seePayments	Wed Jun 03 17:37:07 EEST 2020
+
+
+
+		NEW SESSION	Wed Jun 03 17:37:37 EEST 2020
+ENTER ProductServiceIO ReadData	Wed Jun 03 17:37:37 EEST 2020
+EXIT ProductServiceIO ReadData	Wed Jun 03 17:37:38 EEST 2020
+addToMemory	Wed Jun 03 17:37:38 EEST 2020
+ENTER EmployeeServiceIO ReadData	Wed Jun 03 17:37:38 EEST 2020
+EXIT EmployeeServiceIO ReadData	Wed Jun 03 17:37:38 EEST 2020
+addEmployees	Wed Jun 03 17:37:38 EEST 2020
+ENTER EmployeeServiceIO ReadFired	Wed Jun 03 17:37:38 EEST 2020
+EXIT EmployeeServiceIO ReadFired	Wed Jun 03 17:37:38 EEST 2020
+addFiredEmployees	Wed Jun 03 17:37:38 EEST 2020
+ENTER PaymentServiceIO ReadData	Wed Jun 03 17:37:38 EEST 2020
+findProduct	Wed Jun 03 17:37:38 EEST 2020
+findProduct	Wed Jun 03 17:37:38 EEST 2020
+findProduct	Wed Jun 03 17:37:38 EEST 2020
+findProduct	Wed Jun 03 17:37:38 EEST 2020
+EXIT PaymentServiceIO ReadData	Wed Jun 03 17:37:38 EEST 2020
+addPayments	Wed Jun 03 17:37:38 EEST 2020
+seeProducts	Wed Jun 03 17:37:38 EEST 2020
+seeEmployees	Wed Jun 03 17:37:38 EEST 2020
+seeFiredEmployees	Wed Jun 03 17:37:38 EEST 2020
+seePayments	Wed Jun 03 17:37:38 EEST 2020
+
+
+
+		NEW SESSION	Wed Jun 03 17:38:06 EEST 2020
+ENTER ProductServiceIO ReadData	Wed Jun 03 17:38:06 EEST 2020
+EXIT ProductServiceIO ReadData	Wed Jun 03 17:38:06 EEST 2020
+addToMemory	Wed Jun 03 17:38:06 EEST 2020
+ENTER EmployeeServiceIO ReadData	Wed Jun 03 17:38:06 EEST 2020
+EXIT EmployeeServiceIO ReadData	Wed Jun 03 17:38:06 EEST 2020
+addEmployees	Wed Jun 03 17:38:06 EEST 2020
+ENTER EmployeeServiceIO ReadFired	Wed Jun 03 17:38:06 EEST 2020
+EXIT EmployeeServiceIO ReadFired	Wed Jun 03 17:38:06 EEST 2020
+addFiredEmployees	Wed Jun 03 17:38:06 EEST 2020
+ENTER PaymentServiceIO ReadData	Wed Jun 03 17:38:06 EEST 2020
+findProduct	Wed Jun 03 17:38:06 EEST 2020
+findProduct	Wed Jun 03 17:38:06 EEST 2020
+findProduct	Wed Jun 03 17:38:06 EEST 2020
+findProduct	Wed Jun 03 17:38:06 EEST 2020
+EXIT PaymentServiceIO ReadData	Wed Jun 03 17:38:06 EEST 2020
+addPayments	Wed Jun 03 17:38:06 EEST 2020
+seeProducts	Wed Jun 03 17:38:06 EEST 2020
+seeEmployees	Wed Jun 03 17:38:06 EEST 2020
+seeFiredEmployees	Wed Jun 03 17:38:06 EEST 2020
+seePayments	Wed Jun 03 17:38:06 EEST 2020
+
+
+
+		NEW SESSION	Wed Jun 03 17:38:28 EEST 2020
+ENTER ProductServiceIO ReadData	Wed Jun 03 17:38:28 EEST 2020
+EXIT ProductServiceIO ReadData	Wed Jun 03 17:38:28 EEST 2020
+addToMemory	Wed Jun 03 17:38:28 EEST 2020
+ENTER EmployeeServiceIO ReadData	Wed Jun 03 17:38:28 EEST 2020
+EXIT EmployeeServiceIO ReadData	Wed Jun 03 17:38:28 EEST 2020
+addEmployees	Wed Jun 03 17:38:28 EEST 2020
+ENTER EmployeeServiceIO ReadFired	Wed Jun 03 17:38:28 EEST 2020
+EXIT EmployeeServiceIO ReadFired	Wed Jun 03 17:38:28 EEST 2020
+addFiredEmployees	Wed Jun 03 17:38:28 EEST 2020
+ENTER PaymentServiceIO ReadData	Wed Jun 03 17:38:28 EEST 2020
+findProduct	Wed Jun 03 17:38:28 EEST 2020
+findProduct	Wed Jun 03 17:38:28 EEST 2020
+findProduct	Wed Jun 03 17:38:28 EEST 2020
+findProduct	Wed Jun 03 17:38:28 EEST 2020
+EXIT PaymentServiceIO ReadData	Wed Jun 03 17:38:28 EEST 2020
+addPayments	Wed Jun 03 17:38:28 EEST 2020
+seeProducts	Wed Jun 03 17:38:28 EEST 2020
+seeEmployees	Wed Jun 03 17:38:28 EEST 2020
+seeFiredEmployees	Wed Jun 03 17:38:28 EEST 2020
+seePayments	Wed Jun 03 17:38:28 EEST 2020
+
+
+
+		NEW SESSION	Wed Jun 03 17:39:13 EEST 2020
+ENTER ProductServiceIO ReadData	Wed Jun 03 17:39:13 EEST 2020
+EXIT ProductServiceIO ReadData	Wed Jun 03 17:39:13 EEST 2020
+addToMemory	Wed Jun 03 17:39:13 EEST 2020
+ENTER EmployeeServiceIO ReadData	Wed Jun 03 17:39:13 EEST 2020
+EXIT EmployeeServiceIO ReadData	Wed Jun 03 17:39:13 EEST 2020
+addEmployees	Wed Jun 03 17:39:13 EEST 2020
+ENTER EmployeeServiceIO ReadFired	Wed Jun 03 17:39:13 EEST 2020
+EXIT EmployeeServiceIO ReadFired	Wed Jun 03 17:39:13 EEST 2020
+addFiredEmployees	Wed Jun 03 17:39:13 EEST 2020
+ENTER PaymentServiceIO ReadData	Wed Jun 03 17:39:13 EEST 2020
+findProduct	Wed Jun 03 17:39:13 EEST 2020
+findProduct	Wed Jun 03 17:39:13 EEST 2020
+findProduct	Wed Jun 03 17:39:13 EEST 2020
+findProduct	Wed Jun 03 17:39:13 EEST 2020
+EXIT PaymentServiceIO ReadData	Wed Jun 03 17:39:13 EEST 2020
+addPayments	Wed Jun 03 17:39:13 EEST 2020
+seeProducts	Wed Jun 03 17:39:13 EEST 2020
+seeEmployees	Wed Jun 03 17:39:13 EEST 2020
+seeFiredEmployees	Wed Jun 03 17:39:13 EEST 2020
+seePayments	Wed Jun 03 17:39:13 EEST 2020
+
+
+
+		NEW SESSION	Wed Jun 03 17:39:41 EEST 2020
+ENTER ProductServiceIO ReadData	Wed Jun 03 17:39:41 EEST 2020
+EXIT ProductServiceIO ReadData	Wed Jun 03 17:39:41 EEST 2020
+addToMemory	Wed Jun 03 17:39:41 EEST 2020
+ENTER EmployeeServiceIO ReadData	Wed Jun 03 17:39:41 EEST 2020
+EXIT EmployeeServiceIO ReadData	Wed Jun 03 17:39:41 EEST 2020
+addEmployees	Wed Jun 03 17:39:41 EEST 2020
+ENTER EmployeeServiceIO ReadFired	Wed Jun 03 17:39:41 EEST 2020
+EXIT EmployeeServiceIO ReadFired	Wed Jun 03 17:39:41 EEST 2020
+addFiredEmployees	Wed Jun 03 17:39:41 EEST 2020
+ENTER PaymentServiceIO ReadData	Wed Jun 03 17:39:41 EEST 2020
+findProduct	Wed Jun 03 17:39:41 EEST 2020
+findProduct	Wed Jun 03 17:39:41 EEST 2020
+findProduct	Wed Jun 03 17:39:41 EEST 2020
+findProduct	Wed Jun 03 17:39:41 EEST 2020
+EXIT PaymentServiceIO ReadData	Wed Jun 03 17:39:41 EEST 2020
+addPayments	Wed Jun 03 17:39:41 EEST 2020
+seeProducts	Wed Jun 03 17:39:41 EEST 2020
+seeEmployees	Wed Jun 03 17:39:41 EEST 2020
+seeFiredEmployees	Wed Jun 03 17:39:41 EEST 2020
+seePayments	Wed Jun 03 17:39:41 EEST 2020
+
+
+
+		NEW SESSION	Wed Jun 03 17:40:46 EEST 2020
+ENTER ProductServiceIO ReadData	Wed Jun 03 17:40:46 EEST 2020
+EXIT ProductServiceIO ReadData	Wed Jun 03 17:40:46 EEST 2020
+addToMemory	Wed Jun 03 17:40:46 EEST 2020
+ENTER EmployeeServiceIO ReadData	Wed Jun 03 17:40:46 EEST 2020
+EXIT EmployeeServiceIO ReadData	Wed Jun 03 17:40:46 EEST 2020
+addEmployees	Wed Jun 03 17:40:46 EEST 2020
+ENTER EmployeeServiceIO ReadFired	Wed Jun 03 17:40:46 EEST 2020
+EXIT EmployeeServiceIO ReadFired	Wed Jun 03 17:40:46 EEST 2020
+addFiredEmployees	Wed Jun 03 17:40:46 EEST 2020
+ENTER PaymentServiceIO ReadData	Wed Jun 03 17:40:46 EEST 2020
+findProduct	Wed Jun 03 17:40:46 EEST 2020
+findProduct	Wed Jun 03 17:40:46 EEST 2020
+findProduct	Wed Jun 03 17:40:46 EEST 2020
+findProduct	Wed Jun 03 17:40:46 EEST 2020
+EXIT PaymentServiceIO ReadData	Wed Jun 03 17:40:46 EEST 2020
+addPayments	Wed Jun 03 17:40:46 EEST 2020
+seeProducts	Wed Jun 03 17:40:46 EEST 2020
+seeEmployees	Wed Jun 03 17:40:46 EEST 2020
+seeFiredEmployees	Wed Jun 03 17:40:46 EEST 2020
+seePayments	Wed Jun 03 17:40:46 EEST 2020
+
+
+
+		NEW SESSION	Wed Jun 03 17:41:12 EEST 2020
+ENTER ProductServiceIO ReadData	Wed Jun 03 17:41:12 EEST 2020
+EXIT ProductServiceIO ReadData	Wed Jun 03 17:41:12 EEST 2020
+addToMemory	Wed Jun 03 17:41:12 EEST 2020
+ENTER EmployeeServiceIO ReadData	Wed Jun 03 17:41:12 EEST 2020
+EXIT EmployeeServiceIO ReadData	Wed Jun 03 17:41:13 EEST 2020
+addEmployees	Wed Jun 03 17:41:13 EEST 2020
+ENTER EmployeeServiceIO ReadFired	Wed Jun 03 17:41:13 EEST 2020
+EXIT EmployeeServiceIO ReadFired	Wed Jun 03 17:41:13 EEST 2020
+addFiredEmployees	Wed Jun 03 17:41:13 EEST 2020
+ENTER PaymentServiceIO ReadData	Wed Jun 03 17:41:13 EEST 2020
+findProduct	Wed Jun 03 17:41:13 EEST 2020
+findProduct	Wed Jun 03 17:41:13 EEST 2020
+findProduct	Wed Jun 03 17:41:13 EEST 2020
+findProduct	Wed Jun 03 17:41:13 EEST 2020
+EXIT PaymentServiceIO ReadData	Wed Jun 03 17:41:13 EEST 2020
+addPayments	Wed Jun 03 17:41:13 EEST 2020
+seeProducts	Wed Jun 03 17:41:13 EEST 2020
+seeEmployees	Wed Jun 03 17:41:13 EEST 2020
+seeFiredEmployees	Wed Jun 03 17:41:13 EEST 2020
+seePayments	Wed Jun 03 17:41:13 EEST 2020
+
+
+
+		NEW SESSION	Wed Jun 03 17:48:10 EEST 2020
+ENTER ProductServiceIO ReadData	Wed Jun 03 17:48:10 EEST 2020
+EXIT ProductServiceIO ReadData	Wed Jun 03 17:48:10 EEST 2020
+addToMemory	Wed Jun 03 17:48:10 EEST 2020
+ENTER EmployeeServiceIO ReadData	Wed Jun 03 17:48:10 EEST 2020
+EXIT EmployeeServiceIO ReadData	Wed Jun 03 17:48:10 EEST 2020
+addEmployees	Wed Jun 03 17:48:10 EEST 2020
+ENTER EmployeeServiceIO ReadFired	Wed Jun 03 17:48:10 EEST 2020
+EXIT EmployeeServiceIO ReadFired	Wed Jun 03 17:48:10 EEST 2020
+addFiredEmployees	Wed Jun 03 17:48:10 EEST 2020
+ENTER PaymentServiceIO ReadData	Wed Jun 03 17:48:10 EEST 2020
+findProduct	Wed Jun 03 17:48:10 EEST 2020
+findProduct	Wed Jun 03 17:48:10 EEST 2020
+findProduct	Wed Jun 03 17:48:10 EEST 2020
+findProduct	Wed Jun 03 17:48:10 EEST 2020
+EXIT PaymentServiceIO ReadData	Wed Jun 03 17:48:10 EEST 2020
+addPayments	Wed Jun 03 17:48:10 EEST 2020
+seeProducts	Wed Jun 03 17:48:10 EEST 2020
+seeEmployees	Wed Jun 03 17:48:10 EEST 2020
+seeFiredEmployees	Wed Jun 03 17:48:10 EEST 2020
+seePayments	Wed Jun 03 17:48:10 EEST 2020
+
+
+
+		NEW SESSION	Wed Jun 03 17:51:13 EEST 2020
+ENTER ProductServiceIO ReadData	Wed Jun 03 17:51:13 EEST 2020
+EXIT ProductServiceIO ReadData	Wed Jun 03 17:51:13 EEST 2020
+addToMemory	Wed Jun 03 17:51:13 EEST 2020
+ENTER EmployeeServiceIO ReadData	Wed Jun 03 17:51:13 EEST 2020
+EXIT EmployeeServiceIO ReadData	Wed Jun 03 17:51:13 EEST 2020
+addEmployees	Wed Jun 03 17:51:13 EEST 2020
+ENTER EmployeeServiceIO ReadFired	Wed Jun 03 17:51:13 EEST 2020
+EXIT EmployeeServiceIO ReadFired	Wed Jun 03 17:51:13 EEST 2020
+addFiredEmployees	Wed Jun 03 17:51:13 EEST 2020
+ENTER PaymentServiceIO ReadData	Wed Jun 03 17:51:13 EEST 2020
+findProduct	Wed Jun 03 17:51:13 EEST 2020
+findProduct	Wed Jun 03 17:51:13 EEST 2020
+findProduct	Wed Jun 03 17:51:13 EEST 2020
+findProduct	Wed Jun 03 17:51:13 EEST 2020
+EXIT PaymentServiceIO ReadData	Wed Jun 03 17:51:13 EEST 2020
+addPayments	Wed Jun 03 17:51:13 EEST 2020
+seeProducts	Wed Jun 03 17:51:13 EEST 2020
+seeEmployees	Wed Jun 03 17:51:13 EEST 2020
+seeFiredEmployees	Wed Jun 03 17:51:13 EEST 2020
+seePayments	Wed Jun 03 17:51:13 EEST 2020
+addProduct	Wed Jun 03 17:51:28 EEST 2020
+ENTER ProductServiceIO WriteData	Wed Jun 03 17:51:28 EEST 2020
+EXIT ProductServiceIO WriteData	Wed Jun 03 17:51:28 EEST 2020
+addProduct	Wed Jun 03 17:51:48 EEST 2020
+ENTER ProductServiceIO WriteData	Wed Jun 03 17:51:48 EEST 2020
+EXIT ProductServiceIO WriteData	Wed Jun 03 17:51:48 EEST 2020
+removeProduct	Wed Jun 03 17:52:01 EEST 2020
+ENTER ProductServiceIO deleteProduct	Wed Jun 03 17:52:01 EEST 2020
+Exit ProductServiceIO deleteProduct	Wed Jun 03 17:52:01 EEST 2020
+removeProduct	Wed Jun 03 17:52:05 EEST 2020
+ENTER ProductServiceIO deleteProduct	Wed Jun 03 17:52:05 EEST 2020
+Exit ProductServiceIO deleteProduct	Wed Jun 03 17:52:05 EEST 2020
+
+
+
+		NEW SESSION	Wed Jun 03 18:15:06 EEST 2020
+ENTER ProductServiceIO ReadData	Wed Jun 03 18:15:06 EEST 2020
+EXIT ProductServiceIO ReadData	Wed Jun 03 18:15:06 EEST 2020
+addToMemory	Wed Jun 03 18:15:06 EEST 2020
+ENTER EmployeeServiceIO ReadData	Wed Jun 03 18:15:06 EEST 2020
+EXIT EmployeeServiceIO ReadData	Wed Jun 03 18:15:06 EEST 2020
+addEmployees	Wed Jun 03 18:15:06 EEST 2020
+ENTER EmployeeServiceIO ReadFired	Wed Jun 03 18:15:06 EEST 2020
+EXIT EmployeeServiceIO ReadFired	Wed Jun 03 18:15:06 EEST 2020
+addFiredEmployees	Wed Jun 03 18:15:06 EEST 2020
+ENTER PaymentServiceIO ReadData	Wed Jun 03 18:15:06 EEST 2020
+findProduct	Wed Jun 03 18:15:06 EEST 2020
+findProduct	Wed Jun 03 18:15:06 EEST 2020
+findProduct	Wed Jun 03 18:15:06 EEST 2020
+findProduct	Wed Jun 03 18:15:06 EEST 2020
+EXIT PaymentServiceIO ReadData	Wed Jun 03 18:15:06 EEST 2020
+addPayments	Wed Jun 03 18:15:06 EEST 2020
+seeProducts	Wed Jun 03 18:15:06 EEST 2020
+seeEmployees	Wed Jun 03 18:15:06 EEST 2020
+seeFiredEmployees	Wed Jun 03 18:15:06 EEST 2020
+seePayments	Wed Jun 03 18:15:06 EEST 2020
+addProduct	Wed Jun 03 18:15:26 EEST 2020
+ENTER ProductServiceIO WriteData	Wed Jun 03 18:15:26 EEST 2020
+EXIT ProductServiceIO WriteData	Wed Jun 03 18:15:26 EEST 2020
+removeProduct	Wed Jun 03 18:15:41 EEST 2020
+ENTER ProductServiceIO deleteProduct	Wed Jun 03 18:15:41 EEST 2020
+Exit ProductServiceIO deleteProduct	Wed Jun 03 18:15:41 EEST 2020
+
+
+
+		NEW SESSION	Wed Jun 03 18:18:52 EEST 2020
+ENTER ProductServiceIO ReadData	Wed Jun 03 18:18:52 EEST 2020
+EXIT ProductServiceIO ReadData	Wed Jun 03 18:18:52 EEST 2020
+addToMemory	Wed Jun 03 18:18:52 EEST 2020
+ENTER EmployeeServiceIO ReadData	Wed Jun 03 18:18:52 EEST 2020
+EXIT EmployeeServiceIO ReadData	Wed Jun 03 18:18:52 EEST 2020
+addEmployees	Wed Jun 03 18:18:52 EEST 2020
+ENTER EmployeeServiceIO ReadFired	Wed Jun 03 18:18:52 EEST 2020
+EXIT EmployeeServiceIO ReadFired	Wed Jun 03 18:18:52 EEST 2020
+addFiredEmployees	Wed Jun 03 18:18:52 EEST 2020
+ENTER PaymentServiceIO ReadData	Wed Jun 03 18:18:52 EEST 2020
+findProduct	Wed Jun 03 18:18:52 EEST 2020
+findProduct	Wed Jun 03 18:18:52 EEST 2020
+findProduct	Wed Jun 03 18:18:52 EEST 2020
+findProduct	Wed Jun 03 18:18:52 EEST 2020
+EXIT PaymentServiceIO ReadData	Wed Jun 03 18:18:52 EEST 2020
+addPayments	Wed Jun 03 18:18:52 EEST 2020
+seeProducts	Wed Jun 03 18:18:52 EEST 2020
+seeEmployees	Wed Jun 03 18:18:52 EEST 2020
+seeFiredEmployees	Wed Jun 03 18:18:52 EEST 2020
+seePayments	Wed Jun 03 18:18:52 EEST 2020
