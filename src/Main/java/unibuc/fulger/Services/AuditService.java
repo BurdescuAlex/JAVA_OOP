@@ -30,7 +30,7 @@ public class AuditService {
             var outputLog = Files.newBufferedWriter(logPath,StandardOpenOption.CREATE, StandardOpenOption.APPEND);
             Date currentDate =  formatter.parse(formatter.format(new Date() ));
 
-            outputLog.write(function + "\t" + currentDate + "\n");
+            outputLog.write(Thread.currentThread().getName() + "\t" + function + "\t" + currentDate + "\n");
 
             outputLog.flush();
         }

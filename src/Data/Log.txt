@@ -2516,3 +2516,33 @@ seeProducts	Wed Jun 03 18:18:52 EEST 2020
 seeEmployees	Wed Jun 03 18:18:52 EEST 2020
 seeFiredEmployees	Wed Jun 03 18:18:52 EEST 2020
 seePayments	Wed Jun 03 18:18:52 EEST 2020
+
+
+
+		NEW SESSION	Wed Jun 03 19:47:11 EEST 2020
+main	ENTER ProductServiceIO ReadData	Wed Jun 03 19:47:11 EEST 2020
+main	EXIT ProductServiceIO ReadData	Wed Jun 03 19:47:11 EEST 2020
+main	addToMemory	Wed Jun 03 19:47:11 EEST 2020
+main	ENTER EmployeeServiceIO ReadData	Wed Jun 03 19:47:11 EEST 2020
+main	EXIT EmployeeServiceIO ReadData	Wed Jun 03 19:47:11 EEST 2020
+main	addEmployees	Wed Jun 03 19:47:11 EEST 2020
+main	ENTER EmployeeServiceIO ReadFired	Wed Jun 03 19:47:11 EEST 2020
+main	EXIT EmployeeServiceIO ReadFired	Wed Jun 03 19:47:11 EEST 2020
+main	addFiredEmployees	Wed Jun 03 19:47:11 EEST 2020
+main	ENTER PaymentServiceIO ReadData	Wed Jun 03 19:47:11 EEST 2020
+main	findProduct	Wed Jun 03 19:47:11 EEST 2020
+main	findProduct	Wed Jun 03 19:47:11 EEST 2020
+main	findProduct	Wed Jun 03 19:47:12 EEST 2020
+main	findProduct	Wed Jun 03 19:47:12 EEST 2020
+main	EXIT PaymentServiceIO ReadData	Wed Jun 03 19:47:12 EEST 2020
+main	addPayments	Wed Jun 03 19:47:12 EEST 2020
+main	seeProducts	Wed Jun 03 19:47:12 EEST 2020
+main	seeEmployees	Wed Jun 03 19:47:12 EEST 2020
+main	seeFiredEmployees	Wed Jun 03 19:47:12 EEST 2020
+main	seePayments	Wed Jun 03 19:47:12 EEST 2020
+AWT-EventQueue-0	chaneProductNameById	Wed Jun 03 19:48:25 EEST 2020
+AWT-EventQueue-0	ENTER ProductServiceIO changeName	Wed Jun 03 19:48:25 EEST 2020
+AWT-EventQueue-0	EXIT ProductServiceIO changeName	Wed Jun 03 19:48:25 EEST 2020
+AWT-EventQueue-0	chaneProductNameById	Wed Jun 03 19:49:20 EEST 2020
+AWT-EventQueue-0	ENTER ProductServiceIO changeName	Wed Jun 03 19:49:20 EEST 2020
+AWT-EventQueue-0	EXIT ProductServiceIO changeName	Wed Jun 03 19:49:20 EEST 2020
